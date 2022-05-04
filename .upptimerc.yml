@@ -1,32 +1,38 @@
-# Change these first
-owner: cebreus # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: cebreus
+repo: upptime
 sites:
-  - name: http://tanecni-divadlo.cz
-    url: http://tanecni-divadlo.cz
-    expectedStatusCodes: [301]
-  - name: http://tanecni-divadlo.cz/
-    url: http://tanecni-divadlo.cz/
-    expectedStatusCodes: [301]
-  - name: http://www.tanecni-divadlo.cz
-    expectedStatusCodes: [301]
-    url: http://www.tanecni-divadlo.cz
-  - name: http://www.tanecni-divadlo.cz/
-    url: http://www.tanecni-divadlo.cz/
-    expectedStatusCodes: [301]
-  - name: https://tanecni-divadlo.cz
-    url: https://tanecni-divadlo.cz
-    expectedStatusCodes: [301]
-  - name: https://tanecni-divadlo.cz/
-    url: https://tanecni-divadlo.cz/
-    expectedStatusCodes: [301]
-  - name: https://www.tanecni-divadlo.cz
-    url: https://www.tanecni-divadlo.cz
-    expectedStatusCodes: [301]
-  - name: https://www.tanecni-divadlo.cz/
-    url: https://www.tanecni-divadlo.cz/
-    expectedStatusCodes: [301]
+  - name: "http://tanecni-divadlo.cz"
+    url: "http://tanecni-divadlo.cz"
+    expectedStatusCodes:
+      - 301
+  - name: "http://tanecni-divadlo.cz/"
+    url: "http://tanecni-divadlo.cz/"
+    expectedStatusCodes:
+      - 301
+  - name: "http://www.tanecni-divadlo.cz"
+    expectedStatusCodes:
+      - 301
+    url: "http://www.tanecni-divadlo.cz"
+  - name: "http://www.tanecni-divadlo.cz/"
+    url: "http://www.tanecni-divadlo.cz/"
+    expectedStatusCodes:
+      - 301
+  - name: "https://tanecni-divadlo.cz"
+    url: "https://tanecni-divadlo.cz"
+    expectedStatusCodes:
+      - 301
+  - name: "https://tanecni-divadlo.cz/"
+    url: "https://tanecni-divadlo.cz/"
+    expectedStatusCodes:
+      - 301
+  - name: "https://www.tanecni-divadlo.cz"
+    url: "https://www.tanecni-divadlo.cz"
+    expectedStatusCodes:
+      - 301
+  - name: "https://www.tanecni-divadlo.cz/"
+    url: "https://www.tanecni-divadlo.cz/"
+    expectedStatusCodes:
+      - 301
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

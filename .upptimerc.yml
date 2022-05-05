@@ -1,22 +1,10 @@
 owner: cebreus
 repo: upptime
 sites:
-  - name: "http://tanecni-divadlo.cz"
-    url: "http://tanecni-divadlo.cz"
-  - name: "http://tanecni-divadlo.cz/"
-    url: "http://tanecni-divadlo.cz/"
-  - name: "http://www.tanecni-divadlo.cz"
-    url: "http://www.tanecni-divadlo.cz"
-  - name: "http://www.tanecni-divadlo.cz/"
-    url: "http://www.tanecni-divadlo.cz/"
-  - name: "https://tanecni-divadlo.cz"
-    url: "https://tanecni-divadlo.cz"
-  - name: "https://tanecni-divadlo.cz/"
-    url: "https://tanecni-divadlo.cz/"
-  - name: "https://www.tanecni-divadlo.cz"
+  - name: "cebre.us"
+    url: "https://www.cebre.us/"
+  - name: "tanecni-divadlo.cz"
     url: "https://www.tanecni-divadlo.cz"
-  - name: "https://www.tanecni-divadlo.cz/"
-    url: "https://www.tanecni-divadlo.cz/"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

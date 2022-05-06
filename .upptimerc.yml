@@ -20,6 +20,8 @@ sites:
   - name: Sébastien Thomas Bagnoud
     url: 'https://www.sebastienbagnoud.eu/'
     icon: 'https://www.sebastienbagnoud.eu/favicon.ico'
+  - name: Bali 2017
+    url: $SITE_BALI
 
 status-website:
   cname: upptime.cebre.us

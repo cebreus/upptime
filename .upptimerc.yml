@@ -38,7 +38,7 @@ status-website:
       href: 'https://github.com/$OWNER/$REPO'
 
 workflowSchedule:
-  uptime: "* * * * *"
+  uptime: "0 0 * * *"
   
 i18n:
   footer: ''

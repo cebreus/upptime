@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 746,
+    "timeDay": 772,
     "timeWeek": 751,
     "timeMonth": 751,
     "timeYear": 751,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 354,
+    "timeDay": 279,
     "timeWeek": 375,
     "timeMonth": 375,
     "timeYear": 375,
@@ -41,55 +41,57 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2782,
-    "timeDay": 5430,
+    "timeDay": 10950,
     "timeWeek": 2782,
     "timeMonth": 2782,
     "timeYear": 2782,
-    "dailyMinutesDown": {
-      "2022-05-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Opus organum",
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 139,
+    "timeDay": 243,
     "timeWeek": 173,
     "timeMonth": 173,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 106,
+    "timeDay": 204,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   },
   {
     "name": "Sébastien Thomas Bagnoud",
@@ -103,7 +105,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 644,
+    "timeDay": 849,
     "timeWeek": 633,
     "timeMonth": 633,
     "timeYear": 633,
@@ -115,18 +117,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bali-2017",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 7143,
-    "timeDay": 7143,
+    "timeDay": 10433,
     "timeWeek": 7143,
     "timeMonth": 7143,
     "timeYear": 7143,
-    "dailyMinutesDown": {
-      "2022-05-07": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]

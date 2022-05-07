@@ -40,19 +40,19 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1399,
-    "timeDay": 1597,
-    "timeWeek": 1399,
-    "timeMonth": 1399,
-    "timeYear": 1399,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 2782,
+    "timeDay": 5430,
+    "timeWeek": 2782,
+    "timeMonth": 2782,
+    "timeYear": 2782,
     "dailyMinutesDown": {
-      "2022-05-07": 2
+      "2022-05-07": 4
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "$SITE_BALI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bali-2017",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 540,
-    "timeDay": 540,
-    "timeWeek": 540,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 7143,
+    "timeDay": 7143,
+    "timeWeek": 7143,
+    "timeMonth": 7143,
+    "timeYear": 7143,
     "dailyMinutesDown": {
-      "2022-05-07": 0
+      "2022-05-07": 3
     }
   }
 ]

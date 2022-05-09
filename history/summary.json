@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3107,
-    "timeDay": 4844,
+    "timeDay": 1848,
     "timeWeek": 3107,
     "timeMonth": 3107,
     "timeYear": 3107,
@@ -58,9 +58,9 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 147,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-09": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",

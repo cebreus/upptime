@@ -60,19 +60,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 220,
-    "timeWeek": 113,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 147,
+    "timeDay": 244,
+    "timeWeek": 129,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-05-14": 0
+      "2022-05-14": 5
     }
   },
   {

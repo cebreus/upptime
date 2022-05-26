@@ -43,18 +43,17 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 2372,
     "timeDay": 640,
     "timeWeek": 988,
     "timeMonth": 2372,
     "timeYear": 2372,
     "dailyMinutesDown": {
-      "2022-05-25": 4,
       "2022-05-16": 135,
       "2022-05-12": 15
     }
@@ -101,19 +100,17 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 536,
     "timeWeek": 672,
     "timeMonth": 623,
     "timeYear": 623,
-    "dailyMinutesDown": {
-      "2022-05-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bali 2017",
@@ -121,18 +118,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bali-2017",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 1287,
     "timeDay": 294,
     "timeWeek": 465,
     "timeMonth": 1287,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2022-05-25": 4,
       "2022-05-16": 135,
       "2022-05-12": 15
     }

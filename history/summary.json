@@ -43,14 +43,14 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 1626,
     "timeDay": 912,
-    "timeWeek": 1184,
+    "timeWeek": 1408,
     "timeMonth": 1218,
     "timeYear": 1626,
     "dailyMinutesDown": {
@@ -67,9 +67,9 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,7 +78,9 @@
     "timeWeek": 830,
     "timeMonth": 411,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-09": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -111,7 +113,7 @@
     "uptimeYear": "99.94%",
     "time": 513,
     "timeDay": 860,
-    "timeWeek": 575,
+    "timeWeek": 638,
     "timeMonth": 468,
     "timeYear": 513,
     "dailyMinutesDown": {
@@ -125,14 +127,14 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bali-2017",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 786,
     "timeDay": 4082,
-    "timeWeek": 1537,
+    "timeWeek": 1945,
     "timeMonth": 612,
     "timeYear": 786,
     "dailyMinutesDown": {

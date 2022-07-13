@@ -67,29 +67,31 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 240,
-    "timeWeek": 192,
+    "timeWeek": 188,
     "timeMonth": 407,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 164,
@@ -97,7 +99,7 @@
     "timeMonth": 228,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-07-13": 5
+      "2022-07-13": 0
     }
   },
   {
@@ -127,11 +129,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bali-2017",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 789,
     "timeDay": 531,
     "timeWeek": 1468,

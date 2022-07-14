@@ -69,18 +69,16 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 95,
     "timeWeek": 157,
     "timeMonth": 392,
     "timeYear": 262,
-    "dailyMinutesDown": {
-      "2022-07-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -89,18 +87,16 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
     "timeDay": 209,
     "timeWeek": 173,
     "timeMonth": 228,
     "timeYear": 179,
-    "dailyMinutesDown": {
-      "2022-07-14": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sébastien Thomas Bagnoud",
@@ -128,18 +124,19 @@
     "url": "$SITE_BALI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bali-2017",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.70%",
-    "time": 793,
-    "timeDay": 1392,
-    "timeWeek": 1593,
-    "timeMonth": 633,
-    "timeYear": 793,
+    "time": 789,
+    "timeDay": 733,
+    "timeWeek": 1403,
+    "timeMonth": 628,
+    "timeYear": 789,
     "dailyMinutesDown": {
+      "2022-07-14": 0,
       "2022-06-30": 15,
       "2022-06-21": 19,
       "2022-05-29": 60,

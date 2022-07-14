@@ -67,19 +67,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 89,
-    "timeWeek": 162,
-    "timeMonth": 399,
-    "timeYear": 264,
+    "time": 262,
+    "timeDay": 95,
+    "timeWeek": 157,
+    "timeMonth": 392,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-07-14": 1
+      "2022-07-14": 5
     }
   },
   {
@@ -87,19 +87,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 144,
-    "timeWeek": 154,
-    "timeMonth": 224,
-    "timeYear": 177,
+    "time": 179,
+    "timeDay": 209,
+    "timeWeek": 173,
+    "timeMonth": 228,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 4
     }
   },
   {

@@ -24,19 +24,19 @@
     "url": "https://www.cebre.us/",
     "icon": "https://www.cebre.us/favicon.ico",
     "slug": "cebreus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 389,
-    "timeDay": 1283,
-    "timeWeek": 501,
-    "timeMonth": 345,
+    "timeDay": 980,
+    "timeWeek": 487,
+    "timeMonth": 346,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2022-08-16": 5
+      "2022-08-16": 10
     }
   },
   {
@@ -69,18 +69,20 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 250,
-    "timeWeek": 183,
-    "timeMonth": 178,
-    "timeYear": 238,
-    "dailyMinutesDown": {}
+    "time": 237,
+    "timeDay": 193,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 237,
+    "dailyMinutesDown": {
+      "2022-08-16": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -89,9 +91,9 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 1649,
@@ -99,7 +101,7 @@
     "timeMonth": 368,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-16": 5
     }
   },
   {

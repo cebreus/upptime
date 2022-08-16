@@ -26,9 +26,9 @@
     "slug": "cebreus",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 389,
     "timeDay": 1283,
@@ -36,7 +36,7 @@
     "timeMonth": 345,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-16": 5
     }
   },
   {
@@ -87,18 +87,20 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 239,
-    "timeWeek": 254,
-    "timeMonth": 287,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
+    "time": 231,
+    "timeDay": 1649,
+    "timeWeek": 604,
+    "timeMonth": 368,
+    "timeYear": 231,
+    "dailyMinutesDown": {
+      "2022-08-16": 0
+    }
   },
   {
     "name": "Sébastien Thomas Bagnoud",

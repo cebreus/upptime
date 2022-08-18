@@ -4,9 +4,9 @@
     "url": "https://www.ada-net.cz/",
     "icon": "https://www.ada-net.cz/favicon.ico",
     "slug": "ada-net-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 861,
     "timeYear": 833,
     "dailyMinutesDown": {
+      "2022-08-18": 0,
       "2022-05-21": 39
     }
   },

@@ -71,37 +71,35 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
     "timeDay": 4350,
     "timeWeek": 989,
     "timeMonth": 417,
     "timeYear": 298,
-    "dailyMinutesDown": {
-      "2022-08-20": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 125,
-    "timeWeek": 909,
-    "timeMonth": 495,
+    "timeDay": 166,
+    "timeWeek": 858,
+    "timeMonth": 489,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-08-20": 0
+      "2022-08-20": 5
     }
   },
   {

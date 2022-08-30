@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 1957,
-    "timeDay": 11064,
+    "timeDay": 11000,
     "timeWeek": 6622,
     "timeMonth": 3521,
     "timeYear": 1957,
@@ -87,9 +87,9 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,7 +98,9 @@
     "timeWeek": 158,
     "timeMonth": 421,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-30": 0
+    }
   },
   {
     "name": "Sébastien Thomas Bagnoud",

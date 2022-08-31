@@ -87,19 +87,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 102,
-    "timeWeek": 155,
-    "timeMonth": 417,
-    "timeYear": 263,
+    "time": 264,
+    "timeDay": 179,
+    "timeWeek": 171,
+    "timeMonth": 415,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-08-31": 5
     }
   },
   {

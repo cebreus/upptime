@@ -44,18 +44,19 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 2769,
-    "timeDay": 1458,
-    "timeWeek": 6084,
-    "timeMonth": 6211,
-    "timeYear": 2769,
+    "time": 2825,
+    "timeDay": 11148,
+    "timeWeek": 6951,
+    "timeMonth": 6394,
+    "timeYear": 2825,
     "dailyMinutesDown": {
+      "2022-09-23": 0,
       "2022-06-30": 15,
       "2022-06-21": 20,
       "2022-05-29": 60,
@@ -71,18 +72,16 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 250,
     "timeWeek": 327,
     "timeMonth": 194,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2022-09-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -91,18 +90,16 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 235,
     "timeWeek": 296,
     "timeMonth": 270,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2022-09-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sébastien Thomas Bagnoud",

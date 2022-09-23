@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 2769,
-    "timeDay": 6867,
+    "timeDay": 1458,
     "timeWeek": 6084,
     "timeMonth": 6211,
     "timeYear": 2769,
@@ -69,9 +69,9 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,16 +80,18 @@
     "timeWeek": 342,
     "timeMonth": 194,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-23": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,7 +100,9 @@
     "timeWeek": 305,
     "timeMonth": 271,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-23": 0
+    }
   },
   {
     "name": "Sébastien Thomas Bagnoud",
@@ -133,7 +137,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1769,
-    "timeDay": 10160,
+    "timeDay": 1415,
     "timeWeek": 6484,
     "timeMonth": 4025,
     "timeYear": 1769,

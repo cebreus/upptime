@@ -51,7 +51,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 5159,
-    "timeDay": 6359,
+    "timeDay": 6300,
     "timeWeek": 7121,
     "timeMonth": 7060,
     "timeYear": 5159,
@@ -70,19 +70,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 146,
-    "timeWeek": 509,
-    "timeMonth": 307,
+    "timeDay": 176,
+    "timeWeek": 478,
+    "timeMonth": 304,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-10-07": 0
+      "2022-10-07": 4
     }
   },
   {

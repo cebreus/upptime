@@ -44,14 +44,14 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "40.06%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "40.41%",
     "uptimeWeek": "67.69%",
-    "uptimeMonth": "90.30%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "98.34%",
     "time": 6718,
-    "timeDay": 6279,
+    "timeDay": 6330,
     "timeWeek": 8357,
     "timeMonth": 7718,
     "timeYear": 6718,
@@ -66,7 +66,7 @@
       "2022-10-20": 19,
       "2022-10-19": 188,
       "2022-10-18": 208,
-      "2022-10-17": 599
+      "2022-10-17": 530
     }
   },
   {
@@ -141,7 +141,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 2903,
-    "timeDay": 1716,
+    "timeDay": 508,
     "timeWeek": 5463,
     "timeMonth": 6479,
     "timeYear": 2903,

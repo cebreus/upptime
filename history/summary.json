@@ -45,18 +45,17 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "88.14%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "98.52%",
+    "uptime": "98.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.44%",
+    "uptimeMonth": "90.91%",
+    "uptimeYear": "98.50%",
     "time": 7140,
-    "timeDay": 7614,
+    "timeDay": 7613,
     "timeWeek": 8686,
-    "timeMonth": 8123,
+    "timeMonth": 8124,
     "timeYear": 7140,
     "dailyMinutesDown": {
-      "2022-11-05": 4,
       "2022-11-04": 15,
       "2022-11-03": 58,
       "2022-11-02": 186,
@@ -67,7 +66,7 @@
       "2022-10-27": 640,
       "2022-10-26": 936,
       "2022-10-25": 503,
-      "2022-10-24": 141
+      "2022-10-24": 206
     }
   },
   {

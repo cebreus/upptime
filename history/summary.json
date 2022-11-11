@@ -45,18 +45,17 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "88.83%",
-    "uptimeWeek": "81.98%",
-    "uptimeMonth": "87.76%",
-    "uptimeYear": "98.04%",
+    "uptime": "97.99%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "82.03%",
+    "uptimeMonth": "87.48%",
+    "uptimeYear": "97.99%",
     "time": 7310,
     "timeDay": 9900,
     "timeWeek": 8782,
     "timeMonth": 8366,
     "timeYear": 7310,
     "dailyMinutesDown": {
-      "2022-11-11": 5,
       "2022-11-10": 312,
       "2022-11-09": 87,
       "2022-11-08": 1335,
@@ -70,7 +69,7 @@
       "2022-10-28": 161,
       "2022-10-27": 640,
       "2022-10-26": 936,
-      "2022-10-25": 287
+      "2022-10-25": 416
     }
   },
   {
@@ -138,9 +137,9 @@
     "url": "$SITE_BALI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bali-2017",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -150,6 +149,7 @@
     "timeMonth": 5965,
     "timeYear": 2932,
     "dailyMinutesDown": {
+      "2022-11-11": 0,
       "2022-06-30": 15,
       "2022-06-21": 19,
       "2022-05-29": 60,

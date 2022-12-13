@@ -45,16 +45,16 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "75.94%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "76.47%",
     "uptimeWeek": "78.14%",
-    "uptimeMonth": "93.20%",
-    "uptimeYear": "99.07%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.08%",
     "time": 8189,
     "timeDay": 10055,
     "timeWeek": 9103,
-    "timeMonth": 9089,
+    "timeMonth": 9092,
     "timeYear": 8189,
     "dailyMinutesDown": {
       "2022-12-13": 202,
@@ -68,7 +68,7 @@
       "2022-12-05": 208,
       "2022-12-04": 191,
       "2022-12-03": 213,
-      "2022-12-02": 143
+      "2022-12-02": 113
     }
   },
   {
@@ -78,37 +78,35 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 348,
     "timeDay": 1686,
     "timeWeek": 1264,
     "timeMonth": 719,
     "timeYear": 348,
-    "dailyMinutesDown": {
-      "2022-12-13": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.33%",
     "time": 306,
-    "timeDay": 1664,
-    "timeWeek": 1095,
-    "timeMonth": 536,
+    "timeDay": 1369,
+    "timeWeek": 1041,
+    "timeMonth": 528,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-12-13": 1,
+      "2022-12-13": 8,
       "2022-09-25": 725,
       "2022-09-24": 1400
     }

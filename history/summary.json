@@ -45,15 +45,15 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "74.07%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "74.05%",
     "uptimeWeek": "81.27%",
-    "uptimeMonth": "93.23%",
-    "uptimeYear": "99.08%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "99.09%",
     "time": 8237,
-    "timeDay": 9894,
-    "timeWeek": 9546,
+    "timeDay": 10013,
+    "timeWeek": 9534,
     "timeMonth": 9119,
     "timeYear": 8237,
     "dailyMinutesDown": {
@@ -66,7 +66,7 @@
       "2022-12-09": 313,
       "2022-12-08": 115,
       "2022-12-07": 477,
-      "2022-12-06": 488
+      "2022-12-06": 464
     }
   },
   {
@@ -74,19 +74,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 1644,
-    "timeWeek": 1284,
-    "timeMonth": 839,
-    "timeYear": 376,
+    "time": 375,
+    "timeDay": 1358,
+    "timeWeek": 1233,
+    "timeMonth": 827,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2022-12-15": 1
+      "2022-12-15": 5
     }
   },
   {

@@ -47,9 +47,9 @@
     "slug": "tanecni-divadlo-cz",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "73.43%",
-    "uptimeWeek": "81.18%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "74.07%",
+    "uptimeWeek": "81.27%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.08%",
     "time": 8237,
     "timeDay": 9894,
@@ -57,7 +57,7 @@
     "timeMonth": 9119,
     "timeYear": 8237,
     "dailyMinutesDown": {
-      "2022-12-15": 310,
+      "2022-12-15": 301,
       "2022-12-14": 372,
       "2022-12-13": 271,
       "2022-12-12": 292,
@@ -66,7 +66,7 @@
       "2022-12-09": 313,
       "2022-12-08": 115,
       "2022-12-07": 477,
-      "2022-12-06": 464
+      "2022-12-06": 488
     }
   },
   {
@@ -74,18 +74,20 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 1164,
-    "timeWeek": 1189,
-    "timeMonth": 794,
-    "timeYear": 366,
-    "dailyMinutesDown": {}
+    "time": 376,
+    "timeDay": 1644,
+    "timeWeek": 1284,
+    "timeMonth": 839,
+    "timeYear": 376,
+    "dailyMinutesDown": {
+      "2022-12-15": 1
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",

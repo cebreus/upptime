@@ -45,17 +45,17 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "85.11%",
-    "uptimeWeek": "81.63%",
-    "uptimeMonth": "94.49%",
+    "uptimeDay": "85.83%",
+    "uptimeWeek": "81.68%",
+    "uptimeMonth": "94.54%",
     "uptimeYear": "99.27%",
-    "time": 8316,
-    "timeDay": 8673,
-    "timeWeek": 9458,
-    "timeMonth": 9230,
-    "timeYear": 8316,
+    "time": 8317,
+    "timeDay": 8528,
+    "timeWeek": 9491,
+    "timeMonth": 9238,
+    "timeYear": 8317,
     "dailyMinutesDown": {
       "2022-12-20": 102,
       "2022-12-19": 209,
@@ -66,7 +66,7 @@
       "2022-12-14": 372,
       "2022-12-13": 271,
       "2022-12-12": 292,
-      "2022-12-11": 139
+      "2022-12-11": 115
     }
   },
   {

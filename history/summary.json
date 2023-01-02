@@ -29,9 +29,9 @@
     "slug": "cebreus",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 340,
     "timeDay": 297,
@@ -39,7 +39,7 @@
     "timeMonth": 284,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2023-01-02": 71
+      "2023-01-02": 77
     }
   },
   {
@@ -47,11 +47,11 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "85.96%",
-    "uptimeWeek": "85.57%",
-    "uptimeMonth": "94.26%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "85.66%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.28%",
     "time": 8508,
     "timeDay": 8680,
@@ -59,7 +59,7 @@
     "timeMonth": 9328,
     "timeYear": 8508,
     "dailyMinutesDown": {
-      "2023-01-02": 73,
+      "2023-01-02": 64,
       "2023-01-01": 264,
       "2022-12-31": 78,
       "2022-12-30": 252,
@@ -141,9 +141,9 @@
     "slug": "bali-2017",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.09%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.88%",
     "time": 3824,
     "timeDay": 4490,
@@ -151,7 +151,7 @@
     "timeMonth": 5588,
     "timeYear": 3824,
     "dailyMinutesDown": {
-      "2023-01-02": 71,
+      "2023-01-02": 76,
       "2022-12-29": 42,
       "2022-06-30": 15,
       "2022-06-21": 19,

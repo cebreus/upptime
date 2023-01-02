@@ -1,7 +1,7 @@
 url: https://www.tanecni-divadlo.cz
-status: up
-code: 200
-responseTime: 8321
-lastUpdated: 2023-01-02T18:30:35.228Z
+status: down
+code: 502
+responseTime: 5179
+lastUpdated: 2023-01-02T18:36:22.544Z
 startTime: Thu May 05 2022 19:45:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

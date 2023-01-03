@@ -48,18 +48,17 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "83.26%",
-    "uptimeWeek": "84.57%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.27%",
+    "uptimeDay": "83.87%",
+    "uptimeWeek": "84.65%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.27%",
     "time": 8522,
     "timeDay": 9603,
-    "timeWeek": 9317,
+    "timeWeek": 9316,
     "timeMonth": 9369,
     "timeYear": 8522,
     "dailyMinutesDown": {
-      "2023-01-03": 9,
       "2023-01-02": 233,
       "2023-01-01": 264,
       "2022-12-31": 78,
@@ -71,7 +70,7 @@
       "2022-12-25": 270,
       "2022-12-24": 289,
       "2022-12-23": 143,
-      "2022-12-22": 124
+      "2022-12-22": 148
     }
   },
   {

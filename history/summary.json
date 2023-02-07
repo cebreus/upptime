@@ -47,16 +47,16 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "62.78%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "63.90%",
     "uptimeWeek": "72.07%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "99.29%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "99.30%",
     "time": 8729,
     "timeDay": 9352,
-    "timeWeek": 9319,
-    "timeMonth": 9211,
+    "timeWeek": 9322,
+    "timeMonth": 9206,
     "timeYear": 8729,
     "dailyMinutesDown": {
       "2023-02-07": 305,
@@ -66,7 +66,7 @@
       "2023-02-03": 342,
       "2023-02-02": 393,
       "2023-02-01": 403,
-      "2023-01-31": 200
+      "2023-01-31": 181
     }
   },
   {
@@ -141,7 +141,7 @@
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.79%",
     "time": 4765,
-    "timeDay": 5260,
+    "timeDay": 5109,
     "timeWeek": 8106,
     "timeMonth": 8207,
     "timeYear": 4765,

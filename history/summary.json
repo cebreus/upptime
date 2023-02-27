@@ -49,9 +49,9 @@
     "slug": "tanecni-divadlo-cz",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "91.79%",
-    "uptimeWeek": "84.03%",
-    "uptimeMonth": "94.61%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "84.06%",
+    "uptimeMonth": "94.57%",
     "uptimeYear": "99.45%",
     "time": 8831,
     "timeDay": 10655,
@@ -59,7 +59,7 @@
     "timeMonth": 9395,
     "timeYear": 8831,
     "dailyMinutesDown": {
-      "2023-02-27": 97,
+      "2023-02-27": 93,
       "2023-02-26": 116,
       "2023-02-25": 189,
       "2023-02-24": 279,
@@ -68,7 +68,7 @@
       "2023-02-21": 255,
       "2023-02-20": 190,
       "2023-02-19": 273,
-      "2023-02-18": 313
+      "2023-02-18": 338
     }
   },
   {
@@ -94,19 +94,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.50%",
-    "time": 336,
-    "timeDay": 4401,
-    "timeWeek": 881,
-    "timeMonth": 389,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 2294,
+    "timeWeek": 781,
+    "timeMonth": 382,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2023-02-27": 1,
+      "2023-02-27": 5,
       "2022-09-25": 725,
       "2022-09-24": 1400
     }

@@ -13,7 +13,7 @@
     "time": 829,
     "timeDay": 927,
     "timeWeek": 849,
-    "timeMonth": 822,
+    "timeMonth": 832,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2022-12-06": 15,
@@ -36,7 +36,7 @@
     "time": 340,
     "timeDay": 216,
     "timeWeek": 242,
-    "timeMonth": 285,
+    "timeMonth": 279,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2023-01-02": 161
@@ -47,10 +47,10 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "92.48%",
-    "uptimeWeek": "96.59%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "96.69%",
     "uptimeMonth": "95.32%",
     "uptimeYear": "99.49%",
     "time": 8897,
@@ -59,7 +59,7 @@
     "timeMonth": 9320,
     "timeYear": 8897,
     "dailyMinutesDown": {
-      "2023-03-24": 109,
+      "2023-03-24": 105,
       "2023-03-23": 19,
       "2023-03-22": 49,
       "2023-03-20": 4,

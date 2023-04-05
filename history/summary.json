@@ -48,18 +48,18 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "98.97%",
+    "uptime": "99.48%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "96.41%",
-    "uptimeYear": "99.47%",
-    "time": 8920,
-    "timeDay": 8286,
-    "timeWeek": 9301,
-    "timeMonth": 9319,
-    "timeYear": 8920,
+    "uptimeYear": "99.48%",
+    "time": 8919,
+    "timeDay": 8350,
+    "timeWeek": 9232,
+    "timeMonth": 9321,
+    "timeYear": 8919,
     "dailyMinutesDown": {
-      "2023-04-05": 44,
+      "2023-04-05": 48,
       "2023-04-02": 19,
       "2023-04-01": 19,
       "2023-03-31": 20,
@@ -93,8 +93,7 @@
       "2023-03-01": 239,
       "2023-02-28": 126,
       "2023-02-27": 93,
-      "2023-02-26": 116,
-      "2023-02-25": 25
+      "2023-02-26": 116
     }
   },
   {
@@ -171,7 +170,7 @@
     "time": 5151,
     "timeDay": 3255,
     "timeWeek": 4164,
-    "timeMonth": 7350,
+    "timeMonth": 7420,
     "timeYear": 5151,
     "dailyMinutesDown": {
       "2023-01-30": 335,

@@ -27,18 +27,19 @@
     "url": "https://www.cebre.us/",
     "icon": "https://www.cebre.us/favicon.ico",
     "slug": "cebreus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 338,
-    "timeDay": 301,
-    "timeWeek": 330,
-    "timeMonth": 321,
-    "timeYear": 338,
+    "time": 337,
+    "timeDay": 193,
+    "timeWeek": 295,
+    "timeMonth": 312,
+    "timeYear": 337,
     "dailyMinutesDown": {
+      "2023-04-26": 0,
       "2023-01-02": 161
     }
   },
@@ -49,17 +50,16 @@
     "slug": "tanecni-divadlo-cz",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "97.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "99.53%",
     "time": 8978,
-    "timeDay": 9784,
+    "timeDay": 9500,
     "timeWeek": 9360,
     "timeMonth": 9533,
     "timeYear": 8978,
     "dailyMinutesDown": {
-      "2023-04-26": 4,
       "2023-04-24": 29,
       "2023-04-23": 19,
       "2023-04-21": 19,
@@ -102,7 +102,7 @@
       "2023-03-07": 48,
       "2023-03-06": 37,
       "2023-03-05": 86,
-      "2023-03-04": 38
+      "2023-03-04": 57
     }
   },
   {

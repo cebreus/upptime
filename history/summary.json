@@ -46,16 +46,16 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "97.00%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "96.98%",
     "uptimeWeek": "97.75%",
     "uptimeMonth": "97.18%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 9022,
-    "timeDay": 9721,
-    "timeWeek": 9292,
-    "timeMonth": 9414,
+    "timeDay": 9731,
+    "timeWeek": 9317,
+    "timeMonth": 9407,
     "timeYear": 9040,
     "dailyMinutesDown": {
       "2023-05-23": 43,
@@ -102,8 +102,7 @@
       "2023-03-26": 43,
       "2023-03-25": 29,
       "2023-03-24": 105,
-      "2023-03-23": 19,
-      "2023-03-22": 49
+      "2023-03-23": 19
     }
   },
   {

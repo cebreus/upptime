@@ -48,17 +48,16 @@
     "slug": "tanecni-divadlo-cz",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "87.68%",
     "uptimeMonth": "94.16%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.39%",
     "time": 9049,
     "timeDay": 10004,
     "timeWeek": 9989,
     "timeMonth": 9341,
     "timeYear": 9074,
     "dailyMinutesDown": {
-      "2023-06-05": 0,
       "2023-06-03": 24,
       "2023-06-02": 24,
       "2023-06-01": 124,
@@ -92,7 +91,7 @@
       "2023-04-24": 29,
       "2023-04-23": 19,
       "2023-04-21": 19,
-      "2023-04-20": 69
+      "2023-04-20": 89
     }
   },
   {
@@ -160,11 +159,11 @@
     "url": "$SITE_BALI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bali-2017",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.88%",
     "time": 5280,
     "timeDay": 4820,
@@ -172,6 +171,7 @@
     "timeMonth": 5123,
     "timeYear": 5440,
     "dailyMinutesDown": {
+      "2023-06-05": 3,
       "2023-05-11": 26,
       "2023-05-02": 27,
       "2023-01-30": 335,

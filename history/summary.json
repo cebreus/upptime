@@ -53,8 +53,8 @@
     "uptimeMonth": "93.17%",
     "uptimeYear": "99.40%",
     "time": 9060,
-    "timeDay": 8986,
-    "timeWeek": 9123,
+    "timeDay": 8710,
+    "timeWeek": 9093,
     "timeMonth": 9429,
     "timeYear": 9093,
     "dailyMinutesDown": {
@@ -132,11 +132,11 @@
     "url": "https://www.sebastienbagnoud.eu/",
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 607,
     "timeDay": 640,
@@ -144,6 +144,7 @@
     "timeMonth": 617,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2023-06-17": 3,
       "2022-06-30": 15,
       "2022-06-21": 39
     }

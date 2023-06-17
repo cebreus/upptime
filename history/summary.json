@@ -48,16 +48,17 @@
     "slug": "tanecni-divadlo-cz",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "90.70%",
-    "uptimeWeek": "93.10%",
+    "uptimeDay": "90.82%",
+    "uptimeWeek": "93.07%",
     "uptimeMonth": "93.17%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 9061,
-    "timeDay": 8834,
-    "timeWeek": 9145,
-    "timeMonth": 9443,
+    "timeDay": 8826,
+    "timeWeek": 9152,
+    "timeMonth": 9433,
     "timeYear": 9094,
     "dailyMinutesDown": {
+      "2023-06-17": 4,
       "2023-06-16": 185,
       "2023-06-15": 88,
       "2023-06-14": 133,
@@ -84,8 +85,7 @@
       "2023-05-17": 34,
       "2023-05-15": 53,
       "2023-05-14": 20,
-      "2023-05-12": 19,
-      "2023-05-11": 19
+      "2023-05-12": 19
     }
   },
   {
@@ -134,9 +134,9 @@
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 607,
     "timeDay": 640,
@@ -144,7 +144,7 @@
     "timeMonth": 617,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2023-06-17": 48,
+      "2023-06-17": 72,
       "2022-06-30": 15,
       "2022-06-21": 39
     }

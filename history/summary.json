@@ -46,19 +46,18 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "90.58%",
-    "uptimeWeek": "93.09%",
+    "uptimeDay": "90.70%",
+    "uptimeWeek": "93.10%",
     "uptimeMonth": "93.17%",
-    "uptimeYear": "99.41%",
-    "time": 9060,
-    "timeDay": 8608,
-    "timeWeek": 9113,
-    "timeMonth": 9436,
-    "timeYear": 9093,
+    "uptimeYear": "99.40%",
+    "time": 9061,
+    "timeDay": 8834,
+    "timeWeek": 9145,
+    "timeMonth": 9443,
+    "timeYear": 9094,
     "dailyMinutesDown": {
-      "2023-06-17": 2,
       "2023-06-16": 185,
       "2023-06-15": 88,
       "2023-06-14": 133,
@@ -85,7 +84,8 @@
       "2023-05-17": 34,
       "2023-05-15": 53,
       "2023-05-14": 20,
-      "2023-05-12": 19
+      "2023-05-12": 19,
+      "2023-05-11": 19
     }
   },
   {
@@ -134,9 +134,9 @@
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 607,
     "timeDay": 640,
@@ -144,7 +144,7 @@
     "timeMonth": 617,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2023-06-17": 39,
+      "2023-06-17": 48,
       "2022-06-30": 15,
       "2022-06-21": 39
     }

@@ -48,17 +48,17 @@
     "slug": "tanecni-divadlo-cz",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
-    "time": 9062,
-    "timeDay": 8796,
-    "timeWeek": 8494,
-    "timeMonth": 8830,
+    "time": 9063,
+    "timeDay": 8903,
+    "timeWeek": 8502,
+    "timeMonth": 8823,
     "timeYear": 9109,
     "dailyMinutesDown": {
-      "2023-07-06": 26,
+      "2023-07-06": 22,
       "2023-07-05": 160,
       "2023-07-01": 19,
       "2023-06-30": 19,
@@ -80,7 +80,8 @@
       "2023-06-13": 175,
       "2023-06-12": 63,
       "2023-06-11": 54,
-      "2023-06-08": 169
+      "2023-06-08": 169,
+      "2023-06-07": 19
     }
   },
   {

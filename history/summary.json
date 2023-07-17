@@ -12,8 +12,8 @@
     "uptimeYear": "99.95%",
     "time": 825,
     "timeDay": 0,
-    "timeWeek": 777,
-    "timeMonth": 781,
+    "timeWeek": 766,
+    "timeMonth": 789,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2022-12-06": 15,
@@ -34,8 +34,8 @@
     "uptimeYear": "99.97%",
     "time": 326,
     "timeDay": 0,
-    "timeWeek": 252,
-    "timeMonth": 266,
+    "timeWeek": 255,
+    "timeMonth": 264,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2023-01-02": 161
@@ -46,18 +46,19 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.35%",
     "uptimeMonth": "94.09%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 9028,
     "timeDay": 8403,
-    "timeWeek": 8275,
-    "timeMonth": 8511,
+    "timeWeek": 8286,
+    "timeMonth": 8514,
     "timeYear": 9091,
     "dailyMinutesDown": {
+      "2023-07-17": 0,
       "2023-07-16": 38,
       "2023-07-15": 35,
       "2023-07-14": 43,
@@ -82,8 +83,7 @@
       "2023-06-21": 362,
       "2023-06-20": 149,
       "2023-06-19": 146,
-      "2023-06-17": 33,
-      "2023-06-16": 19
+      "2023-06-17": 33
     }
   },
   {
@@ -99,8 +99,8 @@
     "uptimeYear": "100.00%",
     "time": 394,
     "timeDay": 0,
-    "timeWeek": 213,
-    "timeMonth": 197,
+    "timeWeek": 214,
+    "timeMonth": 203,
     "timeYear": 429,
     "dailyMinutesDown": {}
   },
@@ -117,8 +117,8 @@
     "uptimeYear": "99.60%",
     "time": 322,
     "timeDay": 0,
-    "timeWeek": 183,
-    "timeMonth": 216,
+    "timeWeek": 168,
+    "timeMonth": 220,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2022-09-25": 725,
@@ -138,8 +138,8 @@
     "uptimeYear": "99.98%",
     "time": 608,
     "timeDay": 0,
-    "timeWeek": 603,
-    "timeMonth": 641,
+    "timeWeek": 591,
+    "timeMonth": 647,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2023-06-17": 84
@@ -158,9 +158,9 @@
     "uptimeYear": "99.65%",
     "time": 5296,
     "timeDay": 5073,
-    "timeWeek": 3477,
-    "timeMonth": 3058,
-    "timeYear": 5858,
+    "timeWeek": 3691,
+    "timeMonth": 3102,
+    "timeYear": 5861,
     "dailyMinutesDown": {
       "2023-07-15": 43,
       "2023-06-26": 258,

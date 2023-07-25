@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 825,
-    "timeDay": 877,
-    "timeWeek": 837,
-    "timeMonth": 817,
-    "timeYear": 824,
+    "timeDay": 0,
+    "timeWeek": 842,
+    "timeMonth": 813,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2022-12-06": 15,
       "2022-08-19": 95,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 325,
-    "timeDay": 258,
-    "timeWeek": 279,
+    "timeDay": 0,
+    "timeWeek": 285,
     "timeMonth": 267,
-    "timeYear": 307,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2023-01-02": 161
     }
@@ -46,16 +46,16 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "93.93%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "93.91%",
     "uptimeWeek": "92.32%",
     "uptimeMonth": "94.64%",
     "uptimeYear": "99.48%",
     "time": 9025,
     "timeDay": 9528,
-    "timeWeek": 9390,
-    "timeMonth": 8658,
+    "timeWeek": 9360,
+    "timeMonth": 8661,
     "timeYear": 9100,
     "dailyMinutesDown": {
       "2023-07-25": 87,
@@ -86,7 +86,7 @@
       "2023-06-25": 59,
       "2023-06-24": 205,
       "2023-06-23": 67,
-      "2023-06-22": 63
+      "2023-06-22": 43
     }
   },
   {
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 372,
-    "timeWeek": 240,
+    "timeWeek": 242,
     "timeMonth": 217,
     "timeYear": 432,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "99.60%",
     "time": 322,
     "timeDay": 787,
-    "timeWeek": 316,
+    "timeWeek": 331,
     "timeMonth": 251,
     "timeYear": 358,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
     "uptimeYear": "99.98%",
     "time": 610,
     "timeDay": 0,
-    "timeWeek": 718,
+    "timeWeek": 729,
     "timeMonth": 671,
     "timeYear": 651,
     "dailyMinutesDown": {
@@ -161,7 +161,7 @@
     "uptimeYear": "99.65%",
     "time": 5124,
     "timeDay": 5415,
-    "timeWeek": 5174,
+    "timeWeek": 5079,
     "timeMonth": 4017,
     "timeYear": 5881,
     "dailyMinutesDown": {

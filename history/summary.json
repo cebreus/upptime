@@ -46,15 +46,15 @@
     "url": "https://www.tanecni-divadlo.cz",
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "93.76%",
+    "uptimeDay": "93.75%",
     "uptimeWeek": "86.72%",
-    "uptimeMonth": "92.00%",
-    "uptimeYear": "99.33%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "99.34%",
     "time": 9039,
     "timeDay": 8584,
-    "timeWeek": 8782,
+    "timeWeek": 8802,
     "timeMonth": 8913,
     "timeYear": 9105,
     "dailyMinutesDown": {
@@ -82,7 +82,7 @@
       "2023-07-18": 105,
       "2023-07-16": 38,
       "2023-07-15": 35,
-      "2023-07-14": 43
+      "2023-07-14": 24
     }
   },
   {
@@ -131,9 +131,9 @@
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "9.81%",
-    "uptimeWeek": "87.12%",
-    "uptimeMonth": "97.04%",
+    "uptimeDay": "9.09%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "97.01%",
     "uptimeYear": "99.74%",
     "time": 613,
     "timeDay": 0,
@@ -141,7 +141,7 @@
     "timeMonth": 720,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2023-08-08": 1299,
+      "2023-08-08": 1309,
       "2023-06-17": 84
     }
   },
@@ -151,10 +151,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bali-2017",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "88.78%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "93.14%",
+    "uptime": "99.22%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "89.12%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "99.08%",
     "time": 5542,
     "timeDay": 3198,
@@ -162,7 +162,7 @@
     "timeMonth": 5821,
     "timeYear": 6016,
     "dailyMinutesDown": {
-      "2023-08-08": 161,
+      "2023-08-08": 172,
       "2023-08-07": 924,
       "2023-08-01": 113,
       "2023-07-31": 1375,

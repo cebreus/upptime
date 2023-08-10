@@ -1,7 +1,7 @@
 url: $SITE_BALI
-status: up
-code: 200
-responseTime: 384
-lastUpdated: 2023-08-10T08:37:19.806Z
+status: down
+code: 502
+responseTime: 2564
+lastUpdated: 2023-08-10T10:46:16.238Z
 startTime: Fri May 06 2022 14:43:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

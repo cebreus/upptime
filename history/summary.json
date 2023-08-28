@@ -24,9 +24,9 @@
     "url": "https://www.cebre.us/",
     "icon": "https://www.cebre.us/favicon.ico",
     "slug": "cebreus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +36,7 @@
     "timeMonth": 239,
     "timeYear": 293,
     "dailyMinutesDown": {
+      "2023-08-28": 0,
       "2023-01-02": 161
     }
   },
@@ -52,7 +53,7 @@
     "uptimeYear": "99.43%",
     "time": 9035,
     "timeDay": 7383,
-    "timeWeek": 9212,
+    "timeWeek": 9232,
     "timeMonth": 8949,
     "timeYear": 9106,
     "dailyMinutesDown": {
@@ -132,7 +133,7 @@
     "uptime": "95.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.57%",
+    "uptimeMonth": "32.56%",
     "uptimeYear": "94.36%",
     "time": 612,
     "timeDay": 0,
@@ -140,7 +141,7 @@
     "timeMonth": 780,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2023-08-28": 775,
+      "2023-08-28": 780,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -171,7 +172,7 @@
     "slug": "bali-2017",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "88.40%",
+    "uptimeDay": "88.74%",
     "uptimeWeek": "83.03%",
     "uptimeMonth": "87.37%",
     "uptimeYear": "98.58%",

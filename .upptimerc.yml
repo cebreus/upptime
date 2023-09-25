@@ -21,7 +21,8 @@ sites:
     url: 'https://www.sebastienbagnoud.eu/'
     icon: 'https://www.sebastienbagnoud.eu/favicon.ico'
   - name: Bali 2017
-    url: $SITE_BALI
+    url: 'https://bali-2017.cebre.us/'
+    icon: 'https://bali-2017.cebre.us/build/pictures/ico-192.png'
 
 status-website:
   cname: upptime.cebre.us

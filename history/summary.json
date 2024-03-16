@@ -53,14 +53,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "48.20%",
+    "uptimeYear": "48.19%",
     "time": 9233,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 9223,
+    "timeYear": 9224,
     "dailyMinutesDown": {
-      "2024-03-16": 272,
+      "2024-03-16": 292,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -282,18 +282,20 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
+    "time": 353,
     "timeDay": 127,
     "timeWeek": 115,
     "timeMonth": 141,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 2
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -302,9 +304,9 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 293,
     "timeDay": 123,
@@ -312,7 +314,6 @@
     "timeMonth": 138,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-03-16": 9,
       "2023-09-24": 595
     }
   },
@@ -333,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-03-16": 273,
+      "2024-03-16": 293,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,

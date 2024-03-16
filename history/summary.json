@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 9223,
     "dailyMinutesDown": {
-      "2024-03-16": 221,
+      "2024-03-16": 226,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -282,19 +282,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 351,
-    "timeDay": 147,
-    "timeWeek": 116,
-    "timeMonth": 144,
-    "timeYear": 301,
+    "timeDay": 150,
+    "timeWeek": 120,
+    "timeMonth": 145,
+    "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-03-16": 1
+      "2024-03-16": 5
     }
   },
   {
@@ -334,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-03-16": 222,
+      "2024-03-16": 227,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,

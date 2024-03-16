@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 9223,
     "dailyMinutesDown": {
-      "2024-03-16": 266,
+      "2024-03-16": 272,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -284,37 +284,35 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 127,
     "timeWeek": 115,
     "timeMonth": 141,
     "timeYear": 299,
-    "dailyMinutesDown": {
-      "2024-03-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.89%",
-    "time": 292,
-    "timeDay": 98,
-    "timeWeek": 103,
-    "timeMonth": 137,
+    "time": 293,
+    "timeDay": 123,
+    "timeWeek": 111,
+    "timeMonth": 138,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-03-16": 5,
+      "2024-03-16": 9,
       "2023-09-24": 595
     }
   },
@@ -335,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-03-16": 267,
+      "2024-03-16": 273,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,

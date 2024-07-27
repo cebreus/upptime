@@ -1,7 +1,7 @@
 url: https://www.opus-organum.eu/
-status: up
-code: 200
-responseTime: 264
-lastUpdated: 2024-07-26T23:14:05.640Z
+status: down
+code: 502
+responseTime: 285
+lastUpdated: 2024-07-27T06:12:08.423Z
 startTime: 2022-05-05T20:55:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>

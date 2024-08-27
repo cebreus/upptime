@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 791,
-    "timeDay": 763,
-    "timeWeek": 786,
-    "timeMonth": 761,
-    "timeYear": 784,
+    "timeDay": 944,
+    "timeWeek": 825,
+    "timeMonth": 771,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2024-06-21": 50,
       "2024-05-06": 50,
@@ -33,17 +33,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 267,
-    "timeDay": 336,
-    "timeWeek": 288,
-    "timeMonth": 271,
-    "timeYear": 262,
+    "time": 266,
+    "timeDay": 125,
+    "timeWeek": 259,
+    "timeMonth": 265,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2023-12-26": 55,
       "2023-12-24": 30,
       "2023-12-22": 21,
-      "2023-09-28": 240,
-      "2023-08-28": 55
+      "2023-09-28": 240
     }
   },
   {
@@ -52,18 +51,19 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "58.24%",
+    "uptime": "58.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.64%",
-    "time": 9433,
+    "uptimeYear": "3.48%",
+    "time": 9416,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 9409,
+    "timeYear": 9422,
     "dailyMinutesDown": {
-      "2024-08-26": 590,
+      "2024-08-27": 22,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -426,8 +426,7 @@
       "2023-09-01": 55,
       "2023-08-31": 58,
       "2023-08-30": 146,
-      "2023-08-29": 63,
-      "2023-08-28": 153
+      "2023-08-29": 63
     }
   },
   {
@@ -442,10 +441,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 69,
-    "timeWeek": 196,
-    "timeMonth": 224,
-    "timeYear": 185,
+    "timeDay": 46,
+    "timeWeek": 187,
+    "timeMonth": 217,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -460,9 +459,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 209,
-    "timeDay": 72,
-    "timeWeek": 203,
-    "timeMonth": 208,
+    "timeDay": 109,
+    "timeWeek": 209,
+    "timeMonth": 207,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2023-09-24": 595
@@ -474,7 +473,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "54.42%",
+    "uptime": "54.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -485,7 +484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-26": 590,
+      "2024-08-27": 22,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -848,8 +848,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -862,11 +861,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.75%",
-    "time": 3570,
-    "timeDay": 380,
-    "timeWeek": 432,
-    "timeMonth": 454,
+    "uptimeYear": "98.86%",
+    "time": 3566,
+    "timeDay": 574,
+    "timeWeek": 452,
+    "timeMonth": 461,
     "timeYear": 3377,
     "dailyMinutesDown": {
       "2024-06-05": 59,
@@ -894,18 +893,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 745,
-    "timeDay": 631,
-    "timeWeek": 716,
-    "timeMonth": 736,
+    "timeDay": 763,
+    "timeWeek": 747,
+    "timeMonth": 745,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2024-08-26": 5,
       "2024-04-02": 21
     }
   }

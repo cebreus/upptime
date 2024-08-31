@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 791,
-    "timeDay": 924,
-    "timeWeek": 792,
-    "timeMonth": 780,
+    "timeDay": 612,
+    "timeWeek": 786,
+    "timeMonth": 775,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2024-06-21": 50,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 260,
-    "timeDay": 267,
+    "timeDay": 342,
     "timeWeek": 276,
-    "timeMonth": 264,
+    "timeMonth": 266,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2023-12-26": 55,
@@ -51,18 +51,19 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "57.99%",
+    "uptime": "57.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.76%",
-    "time": 9493,
+    "uptimeYear": "2.51%",
+    "time": 9546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 9641,
+    "timeYear": 9693,
     "dailyMinutesDown": {
-      "2024-08-30": 23,
+      "2024-08-31": 22,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -425,8 +426,7 @@
       "2023-09-05": 83,
       "2023-09-04": 113,
       "2023-09-03": 203,
-      "2023-09-02": 119,
-      "2023-09-01": 55
+      "2023-09-02": 119
     }
   },
   {
@@ -441,9 +441,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 148,
-    "timeWeek": 195,
-    "timeMonth": 220,
+    "timeDay": 366,
+    "timeWeek": 202,
+    "timeMonth": 216,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -459,10 +459,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 208,
-    "timeDay": 281,
-    "timeWeek": 152,
-    "timeMonth": 187,
-    "timeYear": 196,
+    "timeDay": 97,
+    "timeWeek": 121,
+    "timeMonth": 185,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2023-09-24": 595
     }
@@ -473,7 +473,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "54.19%",
+    "uptime": "54.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -484,7 +484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 23,
+      "2024-08-31": 22,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -847,8 +848,7 @@
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-02": 1440
     }
   },
   {
@@ -862,11 +862,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 3541,
-    "timeDay": 314,
-    "timeWeek": 376,
-    "timeMonth": 446,
-    "timeYear": 3343,
+    "time": 3538,
+    "timeDay": 375,
+    "timeWeek": 377,
+    "timeMonth": 444,
+    "timeYear": 3339,
     "dailyMinutesDown": {
       "2024-06-05": 59,
       "2024-04-29": 19,
@@ -898,11 +898,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 760,
-    "timeWeek": 724,
-    "timeMonth": 750,
-    "timeYear": 745,
+    "time": 746,
+    "timeDay": 1034,
+    "timeWeek": 772,
+    "timeMonth": 759,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2024-04-02": 21
     }

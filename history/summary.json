@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 585,
+      "2024-09-15": 645,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -435,18 +435,20 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 463,
-    "timeWeek": 304,
-    "timeMonth": 239,
+    "time": 200,
+    "timeDay": 425,
+    "timeWeek": 314,
+    "timeMonth": 244,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -485,7 +487,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 585,
+      "2024-09-15": 645,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,

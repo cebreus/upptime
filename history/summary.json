@@ -12,9 +12,9 @@
     "uptimeYear": "99.87%",
     "time": 794,
     "timeDay": 721,
-    "timeWeek": 875,
-    "timeMonth": 840,
-    "timeYear": 789,
+    "timeWeek": 883,
+    "timeMonth": 834,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2024-09-15": 480,
       "2024-06-21": 50,
@@ -36,8 +36,8 @@
     "uptimeYear": "99.93%",
     "time": 262,
     "timeDay": 321,
-    "timeWeek": 265,
-    "timeMonth": 284,
+    "timeWeek": 269,
+    "timeMonth": 288,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2023-12-26": 55,
@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-16": 1321,
+      "2024-09-16": 1391,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -443,8 +443,8 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 89,
-    "timeWeek": 233,
-    "timeMonth": 243,
+    "timeWeek": 214,
+    "timeMonth": 247,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -461,9 +461,9 @@
     "uptimeYear": "99.89%",
     "time": 227,
     "timeDay": 368,
-    "timeWeek": 1153,
-    "timeMonth": 508,
-    "timeYear": 221,
+    "timeWeek": 1218,
+    "timeMonth": 518,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2023-09-24": 595
     }
@@ -485,7 +485,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-16": 1321,
+      "2024-09-16": 1391,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -865,9 +865,9 @@
     "uptimeYear": "99.20%",
     "time": 3296,
     "timeDay": 430,
-    "timeWeek": 451,
-    "timeMonth": 443,
-    "timeYear": 2933,
+    "timeWeek": 454,
+    "timeMonth": 439,
+    "timeYear": 2928,
     "dailyMinutesDown": {
       "2024-06-05": 59,
       "2024-04-29": 19,
@@ -891,19 +891,19 @@
     "url": "https://booktile.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 746,
     "timeDay": 679,
-    "timeWeek": 710,
-    "timeMonth": 765,
+    "timeWeek": 707,
+    "timeMonth": 757,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2024-09-16": 5,
+      "2024-09-16": 0,
       "2024-04-02": 21
     }
   }

@@ -11,9 +11,9 @@
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.87%",
     "time": 794,
-    "timeDay": 1047,
-    "timeWeek": 920,
-    "timeMonth": 839,
+    "timeDay": 998,
+    "timeWeek": 875,
+    "timeMonth": 840,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2024-09-15": 480,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 262,
-    "timeDay": 246,
-    "timeWeek": 310,
-    "timeMonth": 283,
-    "timeYear": 264,
+    "timeDay": 321,
+    "timeWeek": 265,
+    "timeMonth": 284,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2023-12-26": 55,
       "2023-12-24": 30,
@@ -52,7 +52,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "56.89%",
+    "uptime": "56.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 650,
+      "2024-09-16": 98,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -426,8 +427,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   },
   {
@@ -437,18 +437,16 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 384,
-    "timeWeek": 313,
-    "timeMonth": 246,
+    "timeDay": 259,
+    "timeWeek": 233,
+    "timeMonth": 243,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2024-09-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -462,9 +460,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 227,
-    "timeDay": 479,
-    "timeWeek": 1146,
-    "timeMonth": 502,
+    "timeDay": 368,
+    "timeWeek": 1153,
+    "timeMonth": 508,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2023-09-24": 595
@@ -476,18 +474,19 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "53.16%",
+    "uptime": "53.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 652,
+    "time": 655,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 650,
+      "2024-09-16": 98,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -850,8 +849,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   },
   {
@@ -865,11 +863,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 3310,
-    "timeDay": 445,
-    "timeWeek": 488,
-    "timeMonth": 444,
-    "timeYear": 3006,
+    "time": 3307,
+    "timeDay": 363,
+    "timeWeek": 448,
+    "timeMonth": 441,
+    "timeYear": 2990,
     "dailyMinutesDown": {
       "2024-06-05": 59,
       "2024-04-29": 19,
@@ -900,9 +898,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 746,
-    "timeDay": 705,
-    "timeWeek": 745,
-    "timeMonth": 769,
+    "timeDay": 645,
+    "timeWeek": 709,
+    "timeMonth": 767,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2024-04-02": 21

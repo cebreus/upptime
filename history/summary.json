@@ -11,9 +11,9 @@
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.87%",
     "time": 795,
-    "timeDay": 1259,
-    "timeWeek": 910,
-    "timeMonth": 879,
+    "timeDay": 717,
+    "timeWeek": 899,
+    "timeMonth": 872,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2024-09-15": 480,
@@ -35,15 +35,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 262,
-    "timeDay": 133,
-    "timeWeek": 253,
-    "timeMonth": 281,
-    "timeYear": 262,
+    "timeDay": 334,
+    "timeWeek": 249,
+    "timeMonth": 288,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2023-12-26": 55,
       "2023-12-24": 30,
-      "2023-12-22": 21,
-      "2023-09-28": 240
+      "2023-12-22": 21
     }
   },
   {
@@ -52,18 +51,19 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "56.20%",
+    "uptime": "56.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 8129,
+    "time": 8165,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-26": 24,
+      "2024-09-27": 24,
+      "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -426,8 +426,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -442,9 +441,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 107,
-    "timeWeek": 119,
-    "timeMonth": 308,
+    "timeDay": 102,
+    "timeWeek": 120,
+    "timeMonth": 309,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -459,11 +458,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 114,
-    "timeWeek": 207,
-    "timeMonth": 494,
-    "timeYear": 220,
+    "time": 227,
+    "timeDay": 344,
+    "timeWeek": 226,
+    "timeMonth": 501,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -472,18 +471,19 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "52.52%",
+    "uptime": "52.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 663,
+    "time": 662,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-26": 24,
+      "2024-09-27": 24,
+      "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -846,8 +846,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -861,11 +860,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 3068,
-    "timeDay": 563,
-    "timeWeek": 830,
-    "timeMonth": 517,
-    "timeYear": 2570,
+    "time": 3064,
+    "timeDay": 614,
+    "timeWeek": 495,
+    "timeMonth": 518,
+    "timeYear": 2554,
     "dailyMinutesDown": {
       "2024-06-05": 59,
       "2024-04-29": 19,
@@ -878,8 +877,7 @@
       "2023-12-08": 1423,
       "2023-10-08": 483,
       "2023-10-07": 19,
-      "2023-10-05": 814,
-      "2023-09-28": 19
+      "2023-10-05": 814
     }
   },
   {
@@ -894,10 +892,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 936,
-    "timeWeek": 776,
-    "timeMonth": 781,
-    "timeYear": 751,
+    "timeDay": 631,
+    "timeWeek": 771,
+    "timeMonth": 780,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2024-04-02": 21
     }

@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 951,
+      "2025-01-30": 955,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -477,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 951,
+      "2025-01-30": 955,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -878,19 +878,19 @@
     "url": "https://booktile.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 769,
-    "timeDay": 799,
-    "timeWeek": 859,
-    "timeMonth": 843,
+    "timeDay": 777,
+    "timeWeek": 850,
+    "timeMonth": 840,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2025-01-30": 0,
+      "2025-01-30": 4,
       "2024-04-02": 21
     }
   }

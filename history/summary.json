@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 821,
-    "timeDay": 831,
-    "timeWeek": 730,
+    "timeDay": 761,
+    "timeWeek": 706,
     "timeMonth": 869,
-    "timeYear": 830,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2024-09-15": 480,
       "2024-06-21": 50,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 270,
-    "timeWeek": 300,
-    "timeMonth": 319,
-    "timeYear": 275,
+    "time": 275,
+    "timeDay": 351,
+    "timeWeek": 332,
+    "timeMonth": 302,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -46,7 +46,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "48.76%",
+    "uptime": "48.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 556,
+      "2025-02-07": 25,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -420,8 +421,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -436,10 +436,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 246,
-    "timeWeek": 108,
-    "timeMonth": 138,
-    "timeYear": 180,
+    "timeDay": 424,
+    "timeWeek": 155,
+    "timeMonth": 147,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -454,10 +454,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 156,
-    "timeWeek": 108,
-    "timeMonth": 165,
-    "timeYear": 208,
+    "timeDay": 479,
+    "timeWeek": 169,
+    "timeMonth": 178,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -466,7 +466,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "45.56%",
+    "uptime": "45.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 556,
+      "2025-02-07": 25,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -840,8 +841,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -850,18 +850,17 @@
     "icon": "https://bali-2017.cebre.us/build/pictures/ico-192.png",
     "slug": "bali-2017",
     "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1452,
-    "timeDay": 339,
-    "timeWeek": 478,
+    "timeDay": 327,
+    "timeWeek": 456,
     "timeMonth": 618,
-    "timeYear": 1335,
+    "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-02-06": 5,
       "2024-11-18": 28,
       "2024-11-17": 34,
       "2024-11-12": 75,
@@ -870,8 +869,7 @@
       "2024-03-19": 24,
       "2024-03-15": 29,
       "2024-03-10": 54,
-      "2024-03-05": 17,
-      "2024-02-08": 34
+      "2024-03-05": 17
     }
   },
   {
@@ -886,9 +884,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 831,
-    "timeWeek": 875,
-    "timeMonth": 853,
+    "timeDay": 795,
+    "timeWeek": 867,
+    "timeMonth": 854,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2024-04-02": 21

@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 24,
+      "2025-02-08": 141,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -477,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 24,
+      "2025-02-08": 141,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -849,9 +849,9 @@
     "url": "https://bali-2017.cebre.us/",
     "icon": "https://bali-2017.cebre.us/build/pictures/ico-192.png",
     "slug": "bali-2017",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -861,6 +861,7 @@
     "timeMonth": 624,
     "timeYear": 1335,
     "dailyMinutesDown": {
+      "2025-02-08": 0,
       "2024-11-18": 28,
       "2024-11-17": 34,
       "2024-11-12": 75,

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 825,
-    "timeDay": 932,
-    "timeWeek": 847,
-    "timeMonth": 879,
+    "timeDay": 784,
+    "timeWeek": 871,
+    "timeMonth": 878,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2024-09-15": 480,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 255,
-    "timeWeek": 308,
-    "timeMonth": 295,
+    "timeDay": 290,
+    "timeWeek": 270,
+    "timeMonth": 296,
     "timeYear": 276,
     "dailyMinutesDown": {}
   },
@@ -46,7 +46,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "47.74%",
+    "uptime": "47.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-27": 1175,
+      "2025-02-28": 25,
+      "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
@@ -420,8 +421,7 @@
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
-      "2024-03-01": 1440,
-      "2024-02-29": 1440
+      "2024-03-01": 1440
     }
   },
   {
@@ -436,9 +436,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 175,
+    "timeDay": 67,
     "timeWeek": 229,
-    "timeMonth": 266,
+    "timeMonth": 265,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -453,10 +453,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 415,
-    "timeWeek": 255,
-    "timeMonth": 167,
+    "time": 204,
+    "timeDay": 64,
+    "timeWeek": 258,
+    "timeMonth": 164,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -466,7 +466,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "44.62%",
+    "uptime": "44.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-27": 1175,
+      "2025-02-28": 26,
+      "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
@@ -840,8 +841,7 @@
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
-      "2024-03-01": 1440,
-      "2024-02-29": 1440
+      "2024-03-01": 1440
     }
   },
   {
@@ -856,10 +856,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1332,
-    "timeDay": 420,
-    "timeWeek": 517,
-    "timeMonth": 501,
-    "timeYear": 1326,
+    "timeDay": 1792,
+    "timeWeek": 714,
+    "timeMonth": 539,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2024-11-18": 28,
       "2024-11-17": 34,
@@ -879,17 +879,16 @@
     "slug": "book-tile",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 785,
-    "timeDay": 840,
-    "timeWeek": 849,
-    "timeMonth": 863,
+    "time": 784,
+    "timeDay": 827,
+    "timeWeek": 844,
+    "timeMonth": 865,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-02-27": 5,
       "2025-02-22": 40,
       "2024-04-02": 21
     }

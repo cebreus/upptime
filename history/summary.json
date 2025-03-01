@@ -13,7 +13,7 @@
     "time": 826,
     "timeDay": 1195,
     "timeWeek": 893,
-    "timeMonth": 887,
+    "timeMonth": 899,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2024-09-15": 480,
@@ -36,7 +36,7 @@
     "time": 272,
     "timeDay": 132,
     "timeWeek": 266,
-    "timeMonth": 275,
+    "timeMonth": 274,
     "timeYear": 276,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "uptime": "47.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 1415,
+      "2025-03-01": 28,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -420,8 +421,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -438,7 +438,7 @@
     "time": 188,
     "timeDay": 97,
     "timeWeek": 189,
-    "timeMonth": 263,
+    "timeMonth": 281,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -456,8 +456,8 @@
     "time": 204,
     "timeDay": 115,
     "timeWeek": 251,
-    "timeMonth": 163,
-    "timeYear": 210,
+    "timeMonth": 173,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -469,7 +469,7 @@
     "uptime": "44.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 1415,
+      "2025-03-01": 28,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -840,8 +841,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -858,8 +858,8 @@
     "time": 1332,
     "timeDay": 562,
     "timeWeek": 715,
-    "timeMonth": 537,
-    "timeYear": 1330,
+    "timeMonth": 547,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2024-11-18": 28,
       "2024-11-17": 34,
@@ -879,17 +879,16 @@
     "slug": "book-tile",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 785,
     "timeDay": 833,
     "timeWeek": 843,
-    "timeMonth": 860,
+    "timeMonth": 863,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-02-28": 5,
       "2025-02-22": 40,
       "2024-04-02": 21
     }

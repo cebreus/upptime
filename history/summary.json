@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 829,
-    "timeDay": 1189,
-    "timeWeek": 992,
-    "timeMonth": 952,
-    "timeYear": 844,
+    "timeDay": 1211,
+    "timeWeek": 995,
+    "timeMonth": 961,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2024-09-15": 480,
       "2024-06-21": 50,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 166,
+    "timeDay": 128,
     "timeWeek": 239,
     "timeMonth": 258,
-    "timeYear": 277,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 1230,
+      "2025-03-08": 21,
+      "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -420,8 +421,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -436,9 +436,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 99,
-    "timeWeek": 108,
-    "timeMonth": 269,
+    "timeDay": 178,
+    "timeWeek": 119,
+    "timeMonth": 270,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -454,9 +454,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 328,
-    "timeWeek": 185,
-    "timeMonth": 175,
+    "timeDay": 100,
+    "timeWeek": 183,
+    "timeMonth": 172,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -466,7 +466,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "44.27%",
+    "uptime": "44.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 1230,
+      "2025-03-08": 21,
+      "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -840,8 +841,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -856,10 +856,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1336,
-    "timeDay": 630,
-    "timeWeek": 807,
-    "timeMonth": 630,
-    "timeYear": 1250,
+    "timeDay": 581,
+    "timeWeek": 810,
+    "timeMonth": 629,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2024-11-18": 28,
       "2024-11-17": 34,
@@ -878,17 +878,17 @@
     "slug": "book-tile",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.98%",
-    "time": 792,
-    "timeDay": 976,
-    "timeWeek": 929,
-    "timeMonth": 876,
-    "timeYear": 797,
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 793,
+    "timeDay": 983,
+    "timeWeek": 942,
+    "timeMonth": 877,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-03-07": 20,
+      "2025-03-07": 15,
       "2025-02-22": 40,
       "2024-04-02": 21
     }

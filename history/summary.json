@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 831,
-    "timeDay": 801,
-    "timeWeek": 869,
-    "timeMonth": 912,
-    "timeYear": 853,
+    "time": 832,
+    "timeDay": 1189,
+    "timeWeek": 854,
+    "timeMonth": 921,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2024-09-15": 480,
       "2024-06-21": 50,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 339,
-    "timeWeek": 374,
-    "timeMonth": 301,
-    "timeYear": 280,
+    "timeDay": 127,
+    "timeWeek": 292,
+    "timeMonth": 296,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -45,7 +45,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "46.54%",
+    "uptime": "46.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 730,
+      "2025-03-27": 26,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -419,8 +420,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 293,
-    "timeWeek": 134,
-    "timeMonth": 238,
+    "timeDay": 111,
+    "timeWeek": 136,
+    "timeMonth": 236,
     "timeYear": 200,
     "dailyMinutesDown": {}
   },
@@ -448,18 +448,16 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 83,
-    "timeWeek": 113,
-    "timeMonth": 155,
+    "timeDay": 97,
+    "timeWeek": 108,
+    "timeMonth": 145,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2025-03-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sébastien Thomas Bagnoud",
@@ -467,7 +465,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "43.49%",
+    "uptime": "43.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -478,7 +476,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 730,
+      "2025-03-27": 27,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -841,8 +840,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -856,11 +854,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1297,
-    "timeDay": 394,
-    "timeWeek": 444,
-    "timeMonth": 604,
-    "timeYear": 1193,
+    "time": 1298,
+    "timeDay": 688,
+    "timeWeek": 461,
+    "timeMonth": 614,
+    "timeYear": 1194,
     "dailyMinutesDown": {
       "2024-11-18": 28,
       "2024-11-17": 34,
@@ -880,11 +878,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 820,
-    "timeDay": 623,
-    "timeWeek": 2565,
-    "timeMonth": 1140,
-    "timeYear": 837,
+    "time": 821,
+    "timeDay": 1263,
+    "timeWeek": 2566,
+    "timeMonth": 1159,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2025-03-07": 15,
       "2025-02-22": 40,

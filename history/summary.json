@@ -26,9 +26,9 @@
     "url": "https://www.cebre.us/",
     "icon": "https://www.cebre.us/favicon.ico",
     "slug": "cebreus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 499,
     "timeMonth": 360,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-06": 0
+    }
   },
   {
     "name": "tanecni-divadlo.cz",
@@ -45,7 +47,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "46.08%",
+    "uptime": "46.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 29,
+      "2025-04-06": 981,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -465,7 +467,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "43.06%",
+    "uptime": "43.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -476,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 29,
+      "2025-04-06": 981,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -881,7 +883,7 @@
     "time": 822,
     "timeDay": 837,
     "timeWeek": 961,
-    "timeMonth": 1239,
+    "timeMonth": 1261,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2025-04-02": 20,

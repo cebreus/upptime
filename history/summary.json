@@ -4,9 +4,9 @@
     "url": "https://www.ada-net.cz/",
     "icon": "https://www.ada-net.cz/favicon.ico",
     "slug": "ada-net-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "54.34%",
+    "uptimeDay": "54.33%",
     "uptimeWeek": "93.48%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.77%",
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 1419,
+      "2025-06-07": 1429,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -476,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 1419,
+      "2025-06-07": 1429,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -882,7 +882,7 @@
     "timeMonth": 0,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-06-07": 1419,
+      "2025-06-07": 1429,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,

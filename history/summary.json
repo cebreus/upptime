@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.74%",
-    "time": 1053,
-    "timeDay": 625,
-    "timeWeek": 718,
-    "timeMonth": 2815,
-    "timeYear": 1180,
+    "time": 1054,
+    "timeDay": 833,
+    "timeWeek": 736,
+    "timeMonth": 2816,
+    "timeYear": 1181,
     "dailyMinutesDown": {
       "2025-06-08": 238,
       "2025-06-07": 670,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 347,
-    "timeWeek": 664,
-    "timeMonth": 384,
+    "timeDay": 307,
+    "timeWeek": 661,
+    "timeMonth": 383,
     "timeYear": 306,
     "dailyMinutesDown": {}
   },
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 1179,
+      "2025-06-30": 32,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -419,8 +420,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -435,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 331,
-    "timeWeek": 197,
+    "timeDay": 142,
+    "timeWeek": 207,
     "timeMonth": 210,
-    "timeYear": 207,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   },
   {
@@ -448,18 +448,16 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 167,
-    "timeWeek": 146,
-    "timeMonth": 213,
+    "timeDay": 152,
+    "timeWeek": 142,
+    "timeMonth": 206,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2025-06-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sébastien Thomas Bagnoud",
@@ -467,7 +465,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "39.89%",
+    "uptime": "39.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -478,7 +476,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 1179,
+      "2025-06-30": 32,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -841,8 +840,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -857,9 +855,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1077,
-    "timeDay": 402,
-    "timeWeek": 1117,
-    "timeMonth": 712,
+    "timeDay": 376,
+    "timeWeek": 1116,
+    "timeMonth": 710,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2025-06-25": 20,
@@ -874,18 +872,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "90.55%",
+    "uptime": "90.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.35%",
+    "uptimeYear": "83.29%",
     "time": 830,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 867,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-06-29": 1179,
+      "2025-06-30": 32,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,

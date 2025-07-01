@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 540,
+      "2025-07-01": 549,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -428,19 +428,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 306,
-    "timeWeek": 241,
-    "timeMonth": 215,
+    "timeDay": 199,
+    "timeWeek": 223,
+    "timeMonth": 211,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2025-07-01": 1
+      "2025-07-01": 10
     }
   },
   {
@@ -448,19 +448,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 80,
-    "timeWeek": 137,
-    "timeMonth": 199,
+    "timeDay": 83,
+    "timeWeek": 133,
+    "timeMonth": 196,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-01": 9
     }
   },
   {
@@ -480,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 540,
+      "2025-07-01": 549,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -887,7 +887,7 @@
     "timeMonth": 0,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-07-01": 540,
+      "2025-07-01": 549,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,

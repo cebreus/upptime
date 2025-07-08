@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-08": 909,
+      "2025-07-08": 919,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
@@ -429,19 +429,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 55,
-    "timeWeek": 199,
-    "timeMonth": 222,
+    "time": 196,
+    "timeDay": 63,
+    "timeWeek": 183,
+    "timeMonth": 217,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-07-08": 0
+      "2025-07-08": 10
     }
   },
   {
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-08": 909,
+      "2025-07-08": 919,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
@@ -886,7 +886,7 @@
     "timeMonth": 0,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-07-08": 909,
+      "2025-07-08": 919,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,

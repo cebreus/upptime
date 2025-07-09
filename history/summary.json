@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-09": 1210,
+      "2025-07-09": 1219,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
@@ -447,19 +447,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 97,
-    "timeWeek": 172,
-    "timeMonth": 185,
+    "timeDay": 192,
+    "timeWeek": 185,
+    "timeMonth": 188,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-07-09": 0
+      "2025-07-09": 8
     }
   },
   {
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-09": 1210,
+      "2025-07-09": 1219,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
@@ -886,7 +886,7 @@
     "timeMonth": 0,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-07-09": 1210,
+      "2025-07-09": 1219,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,

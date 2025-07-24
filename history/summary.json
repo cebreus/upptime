@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 369,
+      "2025-07-24": 379,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -429,19 +429,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 165,
-    "timeWeek": 228,
-    "timeMonth": 192,
+    "time": 199,
+    "timeDay": 271,
+    "timeWeek": 247,
+    "timeMonth": 198,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 10
     }
   },
   {
@@ -449,19 +449,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 237,
-    "timeWeek": 214,
-    "timeMonth": 168,
+    "timeDay": 257,
+    "timeWeek": 222,
+    "timeMonth": 171,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 10
     }
   },
   {
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 369,
+      "2025-07-24": 379,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -888,7 +888,7 @@
     "timeMonth": 0,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2025-07-24": 369,
+      "2025-07-24": 379,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 123,
+      "2025-07-24": 369,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -429,9 +429,9 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -440,25 +440,29 @@
     "timeWeek": 228,
     "timeMonth": 192,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 0
+    }
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
+    "time": 211,
     "timeDay": 237,
     "timeWeek": 214,
     "timeMonth": 168,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 0
+    }
   },
   {
     "name": "Sébastien Thomas Bagnoud",
@@ -477,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 123,
+      "2025-07-24": 369,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -873,18 +877,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "87.26%",
+    "uptime": "87.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.70%",
+    "uptimeYear": "76.65%",
     "time": 834,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2025-07-24": 123,
+      "2025-07-24": 369,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

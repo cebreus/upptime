@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 669,
+      "2025-07-24": 679,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -429,19 +429,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 271,
-    "timeWeek": 247,
-    "timeMonth": 198,
-    "timeYear": 208,
+    "time": 199,
+    "timeDay": 323,
+    "timeWeek": 267,
+    "timeMonth": 205,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 10
     }
   },
   {
@@ -449,19 +449,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 257,
-    "timeWeek": 222,
+    "timeDay": 229,
+    "timeWeek": 217,
     "timeMonth": 171,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 10
     }
   },
   {
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 669,
+      "2025-07-24": 679,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -881,14 +881,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.60%",
+    "uptimeYear": "76.59%",
     "time": 834,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2025-07-24": 669,
+      "2025-07-24": 679,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

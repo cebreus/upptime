@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.73%",
-    "time": 1060,
-    "timeDay": 711,
-    "timeWeek": 969,
-    "timeMonth": 896,
-    "timeYear": 1189,
+    "time": 1061,
+    "timeDay": 992,
+    "timeWeek": 1002,
+    "timeMonth": 905,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-07-07": 50,
       "2025-06-08": 238,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 232,
-    "timeWeek": 279,
-    "timeMonth": 286,
+    "timeDay": 252,
+    "timeWeek": 269,
+    "timeMonth": 284,
     "timeYear": 306,
     "dailyMinutesDown": {}
   },
@@ -46,7 +46,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "41.79%",
+    "uptime": "41.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 809,
+      "2025-07-25": 123,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -420,8 +421,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   },
   {
@@ -431,18 +431,16 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 270,
-    "timeWeek": 251,
-    "timeMonth": 202,
+    "timeDay": 280,
+    "timeWeek": 235,
+    "timeMonth": 200,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2025-07-24": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -451,18 +449,16 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 218,
+    "time": 212,
+    "timeDay": 208,
     "timeWeek": 213,
-    "timeMonth": 171,
+    "timeMonth": 174,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2025-07-24": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sébastien Thomas Bagnoud",
@@ -470,7 +466,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "39.05%",
+    "uptime": "39.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -481,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 809,
+      "2025-07-25": 123,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -844,8 +841,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   },
   {
@@ -860,9 +856,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1065,
-    "timeDay": 438,
-    "timeWeek": 2633,
-    "timeMonth": 1184,
+    "timeDay": 693,
+    "timeWeek": 2667,
+    "timeMonth": 1191,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2025-06-25": 20,
@@ -877,18 +873,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "87.20%",
+    "uptime": "87.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.57%",
+    "uptimeYear": "76.43%",
     "time": 834,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 875,
+    "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-07-24": 809,
+      "2025-07-25": 123,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

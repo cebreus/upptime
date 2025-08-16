@@ -27,19 +27,19 @@
     "url": "https://www.cebre.us/",
     "icon": "https://www.cebre.us/favicon.ico",
     "slug": "cebreus",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 201,
-    "timeWeek": 299,
-    "timeMonth": 290,
+    "timeDay": 230,
+    "timeWeek": 294,
+    "timeMonth": 289,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 9
     }
   },
   {
@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 909,
+      "2025-08-16": 919,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -468,7 +468,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "38.30%",
+    "uptime": "38.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 909,
+      "2025-08-16": 919,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -886,7 +886,7 @@
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-08-16": 910,
+      "2025-08-16": 919,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,

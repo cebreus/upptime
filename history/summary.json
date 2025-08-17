@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1064,
-    "timeDay": 935,
+    "timeDay": 951,
     "timeWeek": 872,
-    "timeMonth": 862,
+    "timeMonth": 868,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2025-07-07": 50,
@@ -29,18 +29,16 @@
     "slug": "cebreus",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 230,
-    "timeWeek": 294,
+    "timeDay": 291,
+    "timeWeek": 295,
     "timeMonth": 289,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2025-08-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tanecni-divadlo.cz",
@@ -48,7 +46,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "40.98%",
+    "uptime": "40.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -59,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 919,
+      "2025-08-17": 124,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -422,8 +421,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   },
   {
@@ -438,9 +436,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 115,
+    "timeDay": 68,
     "timeWeek": 292,
-    "timeMonth": 218,
+    "timeMonth": 217,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -455,11 +453,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 160,
-    "timeWeek": 327,
-    "timeMonth": 224,
-    "timeYear": 217,
+    "time": 217,
+    "timeDay": 289,
+    "timeWeek": 239,
+    "timeMonth": 230,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -468,7 +466,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "38.29%",
+    "uptime": "38.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -479,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 919,
+      "2025-08-17": 124,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -842,8 +841,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   },
   {
@@ -858,9 +856,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 968,
-    "timeDay": 621,
-    "timeWeek": 499,
-    "timeMonth": 1088,
+    "timeDay": 407,
+    "timeWeek": 500,
+    "timeMonth": 1087,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2025-06-25": 20,
@@ -875,18 +873,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "84.29%",
+    "uptime": "84.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.25%",
+    "uptimeYear": "70.12%",
     "time": 836,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 884,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2025-08-16": 919,
+      "2025-08-17": 124,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,

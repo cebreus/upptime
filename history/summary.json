@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1068,
-    "timeDay": 963,
-    "timeWeek": 839,
-    "timeMonth": 852,
+    "time": 1069,
+    "timeDay": 736,
+    "timeWeek": 807,
+    "timeMonth": 856,
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2025-07-07": 50,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 224,
-    "timeWeek": 302,
-    "timeMonth": 289,
+    "timeDay": 329,
+    "timeWeek": 311,
+    "timeMonth": 290,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-11": 1238,
+      "2025-10-12": 28,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -419,8 +420,7 @@
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   },
   {
@@ -430,18 +430,16 @@
     "slug": "opus-organum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 445,
-    "timeWeek": 383,
-    "timeMonth": 405,
+    "timeDay": 406,
+    "timeWeek": 397,
+    "timeMonth": 393,
     "timeYear": 226,
-    "dailyMinutesDown": {
-      "2025-10-11": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silberbauerovo hudební Podyjí",
@@ -454,10 +452,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.90%",
-    "time": 234,
-    "timeDay": 467,
-    "timeWeek": 453,
-    "timeMonth": 380,
+    "time": 235,
+    "timeDay": 296,
+    "timeWeek": 372,
+    "timeMonth": 372,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-09-24": 500
@@ -469,7 +467,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "36.58%",
+    "uptime": "36.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -480,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-11": 1238,
+      "2025-10-12": 28,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -843,8 +842,7 @@
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   },
   {
@@ -858,10 +856,10 @@
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.95%",
-    "time": 909,
-    "timeDay": 589,
-    "timeWeek": 541,
-    "timeMonth": 505,
+    "time": 908,
+    "timeDay": 544,
+    "timeWeek": 559,
+    "timeMonth": 508,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2025-10-11": 48,
@@ -879,18 +877,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "77.95%",
+    "uptime": "77.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.84%",
+    "uptimeYear": "54.80%",
     "time": 881,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 910,
+    "timeYear": 911,
     "dailyMinutesDown": {
-      "2025-10-11": 1238,
+      "2025-10-12": 28,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,

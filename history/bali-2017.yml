@@ -1,7 +1,7 @@
 url: https://bali-2017.cebre.us/
-status: up
-code: 200
-responseTime: 627
-lastUpdated: 2025-11-03T23:04:31.483Z
+status: down
+code: 502
+responseTime: 8105
+lastUpdated: 2025-11-04T20:46:38.156Z
 startTime: 2022-05-06T14:43:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>

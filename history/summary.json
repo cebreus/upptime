@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 1208,
+      "2026-02-17": 1218,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -432,9 +432,9 @@
     "slug": "opus-organum",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 185,
@@ -442,7 +442,7 @@
     "timeMonth": 338,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-02-17": 1
+      "2026-02-17": 11
     }
   },
   {
@@ -450,19 +450,19 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.90%",
     "time": 276,
-    "timeDay": 558,
-    "timeWeek": 350,
-    "timeMonth": 345,
+    "timeDay": 435,
+    "timeWeek": 345,
+    "timeMonth": 344,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2026-02-17": 1,
+      "2026-02-17": 10,
       "2025-10-20": 39,
       "2025-09-24": 500
     }
@@ -484,7 +484,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 1208,
+      "2026-02-17": 1218,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -861,14 +861,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.65%",
+    "uptimeYear": "72.64%",
     "time": 2738,
     "timeDay": 12277,
     "timeWeek": 15227,
     "timeMonth": 15699,
     "timeYear": 3232,
     "dailyMinutesDown": {
-      "2026-02-17": 1208,
+      "2026-02-17": 1218,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -997,7 +997,7 @@
     "timeMonth": 0,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2026-02-17": 1208,
+      "2026-02-17": 1218,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,

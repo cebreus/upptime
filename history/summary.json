@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 1218,
+      "2026-02-17": 1227,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -430,19 +430,19 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 185,
-    "timeWeek": 289,
-    "timeMonth": 338,
-    "timeYear": 299,
+    "time": 271,
+    "timeDay": 359,
+    "timeWeek": 316,
+    "timeMonth": 343,
+    "timeYear": 300,
     "dailyMinutesDown": {
-      "2026-02-17": 11
+      "2026-02-17": 19
     }
   },
   {
@@ -452,9 +452,9 @@
     "slug": "silberbauerovo-hudebni-podyji",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 276,
     "timeDay": 435,
@@ -462,7 +462,6 @@
     "timeMonth": 344,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2026-02-17": 10,
       "2025-10-20": 39,
       "2025-09-24": 500
     }
@@ -484,7 +483,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 1218,
+      "2026-02-17": 1227,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -868,7 +867,7 @@
     "timeMonth": 15699,
     "timeYear": 3232,
     "dailyMinutesDown": {
-      "2026-02-17": 1218,
+      "2026-02-17": 1227,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -990,14 +989,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.51%",
+    "uptimeYear": "19.50%",
     "time": 939,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2026-02-17": 1218,
+      "2026-02-17": 1227,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,

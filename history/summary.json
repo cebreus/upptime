@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 1261,
+      "2026-05-19": 1273,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -433,17 +433,17 @@
     "slug": "opus-organum",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 302,
     "timeDay": 1801,
     "timeWeek": 670,
     "timeMonth": 627,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2026-05-19": 4,
+      "2026-05-19": 15,
       "2026-02-17": 19
     }
   },
@@ -452,11 +452,11 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 317,
     "timeDay": 250,
@@ -464,6 +464,7 @@
     "timeMonth": 406,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2026-05-19": 4,
       "2025-10-20": 39,
       "2025-09-24": 500
     }
@@ -485,7 +486,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 1261,
+      "2026-05-19": 1273,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -869,7 +870,7 @@
     "timeMonth": 15986,
     "timeYear": 6755,
     "dailyMinutesDown": {
-      "2026-05-19": 1261,
+      "2026-05-19": 1273,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -1089,7 +1090,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 1261,
+      "2026-05-19": 1273,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,

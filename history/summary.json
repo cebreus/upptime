@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 144,
+      "2026-06-03": 210,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -431,10 +431,10 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 315,
@@ -445,7 +445,7 @@
     "dailyMinutesDown": {
       "2026-02-17": 19,
       "2026-05-19": 30,
-      "2026-06-03": 9
+      "2026-06-03": 8
     }
   },
   {
@@ -453,10 +453,10 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
     "time": 309,
@@ -468,7 +468,7 @@
       "2025-09-24": 500,
       "2025-10-20": 39,
       "2026-05-19": 18,
-      "2026-06-03": 4
+      "2026-06-03": 3
     }
   },
   {
@@ -477,7 +477,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "30.83%",
+    "uptime": "30.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 144,
+      "2026-06-03": 210,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -865,7 +865,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.81%",
+    "uptimeYear": "43.79%",
     "time": 5893,
     "timeDay": 12240,
     "timeWeek": 18244,
@@ -882,7 +882,7 @@
       "2025-10-17": 166,
       "2025-10-18": 96,
       "2025-11-07": 19,
-      "2026-06-03": 144,
+      "2026-06-03": 210,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -1096,7 +1096,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "59.35%",
+    "uptime": "59.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1107,7 +1107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 144,
+      "2026-06-03": 210,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,

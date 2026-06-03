@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 330,
+      "2026-06-03": 334,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -431,21 +431,21 @@
     "url": "https://www.opus-organum.eu/",
     "icon": "https://www.opus-organum.eu/favicon.ico",
     "slug": "opus-organum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 316,
-    "timeDay": 345,
-    "timeWeek": 331,
-    "timeMonth": 671,
+    "timeDay": 340,
+    "timeWeek": 330,
+    "timeMonth": 662,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2026-02-17": 19,
       "2026-05-19": 30,
-      "2026-06-03": 8
+      "2026-06-03": 9
     }
   },
   {
@@ -453,22 +453,22 @@
     "url": "https://www.hudebnipodyji.eu/",
     "icon": "https://www.hudebnipodyji.eu/favicon.ico",
     "slug": "silberbauerovo-hudebni-podyji",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
-    "time": 310,
-    "timeDay": 511,
-    "timeWeek": 472,
-    "timeMonth": 527,
+    "time": 309,
+    "timeDay": 445,
+    "timeWeek": 439,
+    "timeMonth": 515,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2025-09-24": 500,
       "2025-10-20": 39,
       "2026-05-19": 18,
-      "2026-06-03": 3
+      "2026-06-03": 4
     }
   },
   {
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 330,
+      "2026-06-03": 334,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -882,7 +882,7 @@
       "2025-10-17": 166,
       "2025-10-18": 96,
       "2025-11-07": 19,
-      "2026-06-03": 330,
+      "2026-06-03": 334,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -1107,7 +1107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-03": 330,
+      "2026-06-03": 334,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,

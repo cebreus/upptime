@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1207,
-    "timeDay": 1044,
-    "timeWeek": 836,
+    "timeDay": 742,
+    "timeWeek": 820,
     "timeMonth": 824,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 195,
-    "timeWeek": 255,
+    "timeDay": 298,
+    "timeWeek": 282,
     "timeMonth": 266,
     "timeYear": 280,
     "dailyMinutesDown": {}
@@ -46,7 +46,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "32.66%",
+    "uptime": "32.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 70,
+      "2026-06-19": 76,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -420,8 +421,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -436,9 +436,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 323,
-    "timeDay": 583,
-    "timeWeek": 242,
-    "timeMonth": 457,
+    "timeDay": 229,
+    "timeWeek": 230,
+    "timeMonth": 451,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2026-02-17": 19,
@@ -456,10 +456,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 320,
-    "timeDay": 569,
-    "timeWeek": 438,
-    "timeMonth": 485,
+    "time": 321,
+    "timeDay": 603,
+    "timeWeek": 414,
+    "timeMonth": 492,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2025-09-24": 500,
@@ -473,7 +473,7 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "down",
-    "uptime": "30.52%",
+    "uptime": "30.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -484,7 +484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 70,
+      "2026-06-19": 76,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -847,8 +848,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -857,16 +857,16 @@
     "icon": "https://bali-2017.cebre.us/build/pictures/ico-192.png",
     "slug": "bali-2017",
     "status": "down",
-    "uptime": "84.76%",
+    "uptime": "84.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.71%",
-    "time": 6326,
-    "timeDay": 17473,
-    "timeWeek": 15034,
-    "timeMonth": 16135,
-    "timeYear": 7900,
+    "uptimeYear": "39.44%",
+    "time": 6347,
+    "timeDay": 12227,
+    "timeWeek": 15023,
+    "timeMonth": 15969,
+    "timeYear": 7929,
     "dailyMinutesDown": {
       "2025-06-25": 20,
       "2025-10-07": 49,
@@ -878,7 +878,8 @@
       "2025-10-17": 166,
       "2025-10-18": 96,
       "2025-11-07": 19,
-      "2026-06-18": 70,
+      "2026-06-19": 76,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -1107,7 +1108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "58.46%",
+    "uptime": "58.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1118,7 +1119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 70,
+      "2026-06-19": 76,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -1481,8 +1483,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   }
 ]

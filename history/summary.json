@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1162,
-    "timeDay": 958,
-    "timeWeek": 930,
+    "timeDay": 879,
+    "timeWeek": 907,
     "timeMonth": 1044,
     "timeYear": 972,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 107,
-    "timeWeek": 268,
-    "timeMonth": 224,
+    "timeDay": 272,
+    "timeWeek": 250,
+    "timeMonth": 228,
     "timeYear": 267,
     "dailyMinutesDown": {}
   },
@@ -45,7 +45,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "31.71%",
+    "uptime": "31.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 47,
+      "2026-08-03": 46,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -419,8 +420,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   },
   {
@@ -435,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 333,
-    "timeDay": 608,
-    "timeWeek": 425,
-    "timeMonth": 331,
-    "timeYear": 384,
+    "timeDay": 236,
+    "timeWeek": 398,
+    "timeMonth": 336,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2026-02-17": 19,
       "2026-05-19": 30
@@ -456,8 +456,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 338,
-    "timeDay": 484,
-    "timeWeek": 369,
+    "timeDay": 146,
+    "timeWeek": 379,
     "timeMonth": 340,
     "timeYear": 400,
     "dailyMinutesDown": {
@@ -472,16 +472,16 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "up",
-    "uptime": "30.62%",
+    "uptime": "30.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.54%",
-    "uptimeYear": "4.20%",
-    "time": 766,
-    "timeDay": 812,
-    "timeWeek": 917,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "uptimeMonth": "51.83%",
+    "uptimeYear": "4.48%",
+    "time": 763,
+    "timeDay": 717,
+    "timeWeek": 869,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2026-07-17": 987,
       "2026-07-16": 1440,
@@ -830,8 +830,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   },
   {
@@ -840,16 +839,16 @@
     "icon": "https://bali-2017.cebre.us/build/pictures/ico-192.png",
     "slug": "bali-2017",
     "status": "down",
-    "uptime": "82.30%",
+    "uptime": "82.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.39%",
-    "time": 7691,
-    "timeDay": 17435,
-    "timeWeek": 17718,
-    "timeMonth": 17098,
-    "timeYear": 9766,
+    "uptimeYear": "27.12%",
+    "time": 7728,
+    "timeDay": 19694,
+    "timeWeek": 17762,
+    "timeMonth": 17244,
+    "timeYear": 9812,
     "dailyMinutesDown": {
       "2025-10-07": 49,
       "2025-10-10": 28,
@@ -860,7 +859,8 @@
       "2025-10-17": 166,
       "2025-10-18": 96,
       "2025-11-07": 19,
-      "2026-08-02": 47,
+      "2026-08-03": 46,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1134,7 +1134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "55.93%",
+    "uptime": "55.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1145,7 +1145,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 47,
+      "2026-08-03": 46,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1508,8 +1509,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   }
 ]

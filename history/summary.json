@@ -11,9 +11,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.90%",
     "time": 951,
-    "timeDay": 768,
-    "timeWeek": 858,
-    "timeMonth": 847,
+    "timeDay": 884,
+    "timeWeek": 845,
+    "timeMonth": 850,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2025-12-18": 280,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 293,
-    "timeWeek": 248,
-    "timeMonth": 272,
+    "timeDay": 236,
+    "timeWeek": 249,
+    "timeMonth": 270,
     "timeYear": 264,
     "dailyMinutesDown": {}
   },
@@ -46,7 +46,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "30.19%",
+    "uptime": "30.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 43,
+      "2026-10-20": 41,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -420,8 +421,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -435,11 +435,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 348,
-    "timeDay": 73,
-    "timeWeek": 259,
-    "timeMonth": 272,
-    "timeYear": 380,
+    "time": 349,
+    "timeDay": 793,
+    "timeWeek": 289,
+    "timeMonth": 292,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2026-02-17": 19,
       "2026-05-19": 30
@@ -456,13 +456,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.12%",
     "uptimeYear": "99.58%",
-    "time": 363,
-    "timeDay": 361,
-    "timeWeek": 388,
-    "timeMonth": 350,
+    "time": 364,
+    "timeDay": 415,
+    "timeWeek": 412,
+    "timeMonth": 354,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-10-20": 39,
       "2026-05-19": 18,
       "2026-09-25": 739,
       "2026-09-24": 1401
@@ -474,16 +473,16 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "up",
-    "uptime": "33.95%",
+    "uptime": "33.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.57%",
-    "time": 732,
-    "timeDay": 608,
-    "timeWeek": 795,
-    "timeMonth": 673,
-    "timeYear": 732,
+    "uptimeYear": "25.85%",
+    "time": 734,
+    "timeDay": 974,
+    "timeWeek": 764,
+    "timeMonth": 685,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2026-07-17": 987,
       "2026-07-16": 1440,
@@ -754,8 +753,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -764,19 +762,20 @@
     "icon": "https://bali-2017.cebre.us/build/pictures/ico-192.png",
     "slug": "bali-2017",
     "status": "down",
-    "uptime": "78.35%",
+    "uptime": "78.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "6.11%",
-    "time": 12187,
-    "timeDay": 19312,
-    "timeWeek": 19501,
-    "timeMonth": 16840,
-    "timeYear": 14781,
+    "uptimeYear": "5.83%",
+    "time": 12232,
+    "timeDay": 19686,
+    "timeWeek": 19527,
+    "timeMonth": 16847,
+    "timeYear": 14836,
     "dailyMinutesDown": {
       "2025-11-07": 19,
-      "2026-10-19": 43,
+      "2026-10-20": 41,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1128,7 +1127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "52.04%",
+    "uptime": "51.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1139,7 +1138,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 43,
+      "2026-10-20": 41,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1502,8 +1502,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   }
 ]

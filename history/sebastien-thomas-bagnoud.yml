@@ -1,7 +1,7 @@
 url: https://www.sebastienbagnoud.eu/
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2026-11-03T23:05:51.680Z
+status: down
+code: 500
+responseTime: 2529
+lastUpdated: 2026-11-04T00:09:26.082Z
 startTime: 2022-05-05T20:35:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>

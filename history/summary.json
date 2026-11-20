@@ -27,19 +27,19 @@
     "url": "https://www.cebre.us/",
     "icon": "https://www.cebre.us/favicon.ico",
     "slug": "cebreus",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 1734,
-    "timeWeek": 838,
-    "timeMonth": 550,
+    "timeDay": 1224,
+    "timeWeek": 781,
+    "timeMonth": 540,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2026-11-20": 2
+      "2026-11-20": 10
     }
   },
   {
@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 1161,
+      "2026-11-20": 1171,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -479,7 +479,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.55%",
+    "uptimeYear": "34.56%",
     "time": 792,
     "timeDay": 312,
     "timeWeek": 706,
@@ -744,7 +744,7 @@
     "timeMonth": 19596,
     "timeYear": 16566,
     "dailyMinutesDown": {
-      "2026-11-20": 1162,
+      "2026-11-20": 1171,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -1128,7 +1128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 1162,
+      "2026-11-20": 1171,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,

@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 945,
-    "timeDay": 888,
-    "timeWeek": 825,
-    "timeMonth": 810,
-    "timeYear": 969,
+    "timeDay": 1074,
+    "timeWeek": 868,
+    "timeMonth": 819,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2025-12-18": 280,
       "2026-01-04": 109,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 215,
-    "timeWeek": 747,
-    "timeMonth": 536,
-    "timeYear": 290,
+    "timeDay": 482,
+    "timeWeek": 761,
+    "timeMonth": 543,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   },
   {
@@ -46,7 +46,7 @@
     "icon": "https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/10329286_10152333624882870_4274816468418541583_n.png?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=nOcaOXvEHVoAX_s--0e&tn=v_q9sGbG8FnBwxyI&_nc_ht=scontent-prg1-1.xx&oh=00_AT8QD_3TSSC_2vgSrKgJFqcXpAOKt44D39PjvUAbaFoN3Q&oe=629A109B",
     "slug": "tanecni-divadlo-cz",
     "status": "down",
-    "uptime": "29.52%",
+    "uptime": "29.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 464,
+      "2026-11-26": 455,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -420,8 +421,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -435,10 +435,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 358,
-    "timeDay": 205,
-    "timeWeek": 225,
-    "timeMonth": 328,
+    "time": 359,
+    "timeDay": 514,
+    "timeWeek": 273,
+    "timeMonth": 333,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-02-17": 19,
@@ -457,9 +457,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 375,
-    "timeDay": 484,
-    "timeWeek": 389,
-    "timeMonth": 412,
+    "timeDay": 218,
+    "timeWeek": 396,
+    "timeMonth": 414,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2026-05-19": 18,
@@ -473,16 +473,16 @@
     "icon": "https://www.sebastienbagnoud.eu/favicon.ico",
     "slug": "sebastien-thomas-bagnoud",
     "status": "up",
-    "uptime": "35.43%",
+    "uptime": "35.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.79%",
-    "time": 793,
-    "timeDay": 506,
-    "timeWeek": 737,
-    "timeMonth": 943,
-    "timeYear": 793,
+    "uptimeYear": "36.06%",
+    "time": 791,
+    "timeDay": 498,
+    "timeWeek": 693,
+    "timeMonth": 934,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2026-07-17": 987,
       "2026-07-16": 1440,
@@ -716,8 +716,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -726,18 +725,19 @@
     "icon": "https://bali-2017.cebre.us/build/pictures/ico-192.png",
     "slug": "bali-2017",
     "status": "down",
-    "uptime": "76.60%",
+    "uptime": "76.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 13599,
-    "timeDay": 19720,
-    "timeWeek": 19604,
-    "timeMonth": 19589,
-    "timeYear": 16610,
+    "time": 13613,
+    "timeDay": 19706,
+    "timeWeek": 19623,
+    "timeMonth": 19598,
+    "timeYear": 16619,
     "dailyMinutesDown": {
-      "2026-11-25": 465,
+      "2026-11-26": 455,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -1100,8 +1100,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -1110,7 +1109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/booktile.cz.ico",
     "slug": "book-tile",
     "status": "down",
-    "uptime": "50.36%",
+    "uptime": "50.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1121,7 +1120,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 465,
+      "2026-11-26": 455,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -1484,8 +1484,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   }
 ]
